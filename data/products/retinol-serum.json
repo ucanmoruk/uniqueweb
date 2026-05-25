@@ -1,0 +1,257 @@
+{
+  "slug": "retinol-serum",
+  "name": "Retinol Serum",
+  "activeNav": "hizmetler",
+  "productPath": "/urunler/retinol-serum/",
+  "testPath": "/testler/retinol-aktif-madde-miktar-tayini/",
+  "regulationPath": "/mevzuat/retinol-serum-avrupa-uts-cpnp/",
+  "productPage": {
+    "metaTitle": "Retinol Serum Testleri ve Regülasyon Süreçleri | Unique Analyse",
+    "metaDescription": "Retinol serum için kozmetik laboratuvar testleri, kalite kontrol, aktif madde miktar tayini, stabilite, ÜGD, PIF, ÜTS ve CPNP süreçleri.",
+    "eyebrow": "// ÜRÜN ŞABLONU · RETİNOL SERUM",
+    "h1": "RETİNOL SERUM - KOZMETİK LABORATUVAR TESTLERİ, KALİTE KONTROL VE REGÜLASYON SÜREÇLERİ",
+    "lead": "Retinol serum; ışık, oksijen ve sıcaklığa duyarlı aktif yapısı nedeniyle stabilite, aktif madde miktar tayini ve ambalaj uyumluluğunun birlikte yönetilmesi gereken kritik bir kozmetik ürün grubudur.",
+    "toc": [
+      ["Zorunlu testler", "zorunlu-testler"],
+      ["Kalite kontrol", "kalite-kontrol"],
+      ["Raf ömrü", "raf-omru"],
+      ["Belgelendirme", "belgelendirme"],
+      ["Hedef pazar", "pazar"]
+    ],
+    "note": "<b>Uzman notu:</b> “%1 retinol serum” ifadesi Avrupa pazarı için ayrıca doğrulanmalıdır. Pazarlama yüzdesi, saf retinol eşdeğeri, retinol türevi veya kompleks karışım yüzdesi olabilir. Bu ayrım yapılmadan CPNP/PIF ve claim dili güvenli kurulamaz.",
+    "sections": [
+      {
+        "id": "zorunlu-testler",
+        "title": "Zorunlu ve kritik testler",
+        "paragraphs": [
+          "Retinol serumda test planı yalnız ürünün mikrobiyolojik güvenliğini değil, aktif maddenin zaman içinde korunup korunmadığını da göstermelidir. Bu nedenle test paketi üç ana eksende kurulur: güvenlik, stabilite ve analitik doğrulama."
+        ],
+        "cards": [
+          ["01", "Mikrobiyoloji", "Toplam canlı mikroorganizma yükü, maya/küf ve patojen riskleri ürünün güvenli kullanımını desteklemek için değerlendirilir."],
+          ["02", "Koruyucu etkinlik", "Challenge test, formülün kullanım süresi boyunca mikrobiyal kontaminasyona karşı yeterli koruma sağlayıp sağlamadığını gösterir."],
+          ["03", "Hızlandırılmış stabilite", "Retinolün sıcaklık, ışık, oksijen ve ambalaj koşullarında ne kadar korunduğu izlenir."],
+          ["04", "Aktif madde miktar tayini", "Retinol veya retinol eşdeğeri aktif seviyesinin üretim sonrası ve stabilite boyunca korunması HPLC gibi kromatografik yöntemlerle takip edilir."]
+        ]
+      },
+      {
+        "id": "kalite-kontrol",
+        "title": "Kalite kontrol adımları",
+        "paragraphs": [
+          "Retinol serumda kalite kontrol yalnız bitmiş ürün analizi değildir. Hammadde kabulü, üretim sonrası batch kontrolü ve stabilite izleme aynı dosyada birbirini desteklemelidir."
+        ],
+        "list": [
+          "<b>Hammadde kabul testleri:</b> Retinol hammaddesinin CoA/SDS/TDS bilgileri, saflık, taşıyıcı sistem ve saklama gereklilikleriyle birlikte okunur.",
+          "<b>Aktif madde miktar tayini:</b> Batch sonrası retinol seviyesi analitik olarak doğrulanır. Detay için <a href=\"/testler/retinol-aktif-madde-miktar-tayini/\">Retinol aktif madde miktar tayini test sayfasını</a> inceleyebilirsiniz.",
+          "<b>Parti kontrolü:</b> pH, görünüm, koku, renk, viskozite ve ambalaj dolum tutarlılığı kayıt altına alınır.",
+          "<b>Trend izleme:</b> Farklı batch sonuçları karşılaştırılarak üretim prosesi ve hammadde tedariki izlenir."
+        ]
+      },
+      {
+        "id": "raf-omru",
+        "title": "Raf ömrü ve saha uyumluluk",
+        "paragraphs": [
+          "Retinol formülleri ışık ve havaya duyarlı olduğu için raf ömrü yalnız laboratuvar stabilitesiyle değil, ambalaj ve taşıma senaryolarıyla birlikte değerlendirilmelidir. Airless pompa, opak şişe, düşük oksijen teması ve uygun dolum koşulları test sonuçlarını doğrudan etkileyebilir."
+        ],
+        "cardsClass": "two",
+        "cards": [
+          ["AMBALAJ", "Işık ve oksijen bariyeri", "Ambalaj seçimi retinol bozunmasını hızlandırabilir veya yavaşlatabilir. Stabilite çalışmaları ambalajla birlikte okunmalıdır."],
+          ["SAHA", "Taşıma ve kullanım senaryosu", "Depo, e-ticaret, sıcak iklim ve tüketici kullanım alışkanlıkları raf ömrü iddiasının parçasıdır."]
+        ]
+      },
+      {
+        "id": "belgelendirme",
+        "title": "Belgelendirme ve kayıt",
+        "paragraphs": [
+          "Testleri tamamlanan retinol serum için teknik çıktılar ürün dosyasına dönüştürülür. Bu aşamada analiz raporu, Ürün Güvenlik Değerlendirme Raporu, PIF, SDS/TDS ve etiket kontrol notları aynı karar ağacında toplanmalıdır.",
+          "Avrupa ve Türkiye kayıt gereklilikleri için <a href=\"/mevzuat/retinol-serum-avrupa-uts-cpnp/\">Retinol serum CPNP ve ÜTS mevzuat sayfasına</a> geçebilirsiniz."
+        ]
+      },
+      {
+        "id": "pazar",
+        "title": "Hedef pazar seçimi: ÜTS, CPNP, SCPN ve FDA/MoCRA",
+        "paragraphs": [
+          "Türkiye için ÜTS bildirimi ve Türk Kozmetik Yönetmeliği gereklilikleri; Avrupa için CPNP, PIF ve CPSR; İngiltere için SCPN; ABD için FDA/MoCRA kapsamında ürün listeleme ve tesis kayıt disiplini ayrı ayrı değerlendirilmelidir. Aynı formül her pazarda aynı şekilde okunmayabilir."
+        ]
+      }
+    ],
+    "links": [
+      ["Aktif madde miktar tayini nasıl yapılır? ↗", "/testler/retinol-aktif-madde-miktar-tayini/"],
+      ["Retinol serum için CPNP/ÜTS gereklilikleri ↗", "/mevzuat/retinol-serum-avrupa-uts-cpnp/"]
+    ],
+    "cta": {
+      "eyebrow": "UNIQUE TEST PANELİ",
+      "title": "Retinol serum dosyanızı test planından CPNP hazırlığına kadar birlikte kuralım.",
+      "body": "Formülünüzü, hedef pazarınızı ve mevcut dokümanlarınızı paylaşın. Unique Analyse ekibi ürününüz için analiz, stabilite, aktif madde tayini ve regülasyon yol haritasını çıkarsın.",
+      "button": "Retinol serum ön değerlendirmesi iste ↗",
+      "href": "/iletisim/"
+    }
+  },
+  "testPage": {
+    "metaTitle": "Retinol Aktif Madde Miktar Tayini ve Stabilite Testleri | Unique Analyse",
+    "metaDescription": "Retinol aktif madde miktar tayini ve stabilite testleri HPLC metodu, numune hazırlama, metot validasyonu ve laboratuvar raporlama süreci.",
+    "eyebrow": "// TEST ŞABLONU · HPLC ANALİZİ",
+    "h1": "RETİNOL AKTİF MADDE MİKTAR TAYİNİ VE STABİLİTE TESTLERİ NASIL YAPILIR?",
+    "lead": "Retinol analizi, sıradan bir kalite kontrol ölçümü değildir. Aktif maddenin ışık, oksijen ve sıcaklıkla bozunabilmesi nedeniyle numune hazırlamadan cihaz metoduna kadar kontrollü bir laboratuvar disiplini gerektirir.",
+    "tocTitle": "Test akışı",
+    "toc": [
+      ["Metot ve cihazlar", "metot"],
+      ["Test prosedürü", "prosedur"],
+      ["Metot validasyonu", "validasyon"],
+      ["Raporlama", "raporlama"],
+      ["Otorite mesajı", "otorite"]
+    ],
+    "note": "<b>Bu sayfa neden kritik?</b> Retinol serumda etiket yüzdesi, batch sonrası gerçek aktif seviye ve stabilite sonunda kalan aktif miktar birbirinden farklı olabilir. Bu farkı ancak doğru kromatografik analiz gösterebilir.",
+    "sections": [
+      {
+        "id": "metot",
+        "title": "Metot ve cihazlar: HPLC ile retinol analizi",
+        "paragraphs": [
+          "Retinol ve A vitamini türevlerinin miktar tayininde kromatografik yöntemler tercih edilir. HPLC veya uygun sistemlerde UHPLC altyapısı; aktif maddenin formül matriksinden ayrılması, bozunma ürünlerinden ayrıştırılması ve kalibrasyon eğrisiyle kantitatif hesaplanması için kullanılır."
+        ],
+        "cards": [
+          ["HPLC", "Kromatografik ayrım", "Retinol piki, yardımcı maddeler ve olası bozunma ürünlerinden ayrıştırılarak değerlendirilir."],
+          ["DAD/UV", "Dedeksiyon", "Retinolün uygun dalga boyunda izlenmesi, pik saflığı ve sinyal doğruluğu açısından önemlidir."],
+          ["C18", "Kolon seçimi", "Formül matriksine göre kolon, mobil faz ve gradient/isokratik koşullar optimize edilir."]
+        ]
+      },
+      {
+        "id": "prosedur",
+        "title": "Test prosedürü",
+        "orderedList": [
+          "<b>Numune kabulü:</b> Ürün ambalajı, lot numarası, saklama koşulu ve analiz amacı kayıt altına alınır.",
+          "<b>Kontrollü numune hazırlama:</b> Retinol ışığa duyarlı olduğu için amber cam, düşük ışık ve uygun çözücü sistemiyle çalışılır.",
+          "<b>Ekstraksiyon ve filtrasyon:</b> Aktif maddenin formül matriksinden verimli şekilde alınması sağlanır.",
+          "<b>Cihaz analizi:</b> Standart çözeltiler, sistem uygunluğu ve numune enjeksiyonları planlı sırayla çalışılır.",
+          "<b>Hesaplama:</b> Kalibrasyon eğrisi üzerinden aktif madde miktarı hesaplanır; sonuç etiket beyanı ve spesifikasyonla karşılaştırılır.",
+          "<b>Raporlama:</b> Sonuç, metot özeti, birim, kabul kriteri ve yorumla birlikte teslim edilir."
+        ]
+      },
+      {
+        "id": "validasyon",
+        "title": "Metot validasyonu ve güvenilirlik",
+        "paragraphs": [
+          "Retinol miktar tayininde güvenilir sonuç için metot yalnız “çalışıyor” olmakla kalmamalı, ürün matriksinde doğrulanmalıdır. Validasyon veya uygunluk çalışması kapsamında aşağıdaki parametreler değerlendirilir:"
+        ],
+        "cardsClass": "two",
+        "cards": [
+          ["PERFORMANS", "Seçicilik, doğrusallık, doğruluk", "Metot, retinolü formüldeki diğer bileşenlerden ayırmalı ve beklenen konsantrasyon aralığında doğru yanıt vermelidir."],
+          ["TEKRARLANABİLİRLİK", "Kesinlik, sağlamlık, sistem uygunluğu", "Farklı enjeksiyonlarda, hazırlıklarda ve koşullarda kabul edilebilir sapma aralığı izlenir."]
+        ]
+      },
+      {
+        "id": "raporlama",
+        "title": "Stabilite boyunca aktif madde takibi",
+        "paragraphs": [
+          "Retinol serumda tek bir ilk analiz yeterli olmayabilir. Hızlandırılmış stabilite, uzun dönem stabilite veya fotostabilite çalışmalarında aktif madde seviyesinin zaman içindeki değişimi takip edilir. Bu veri, <a href=\"/urunler/retinol-serum/\">retinol serum ürün test planında</a> raf ömrü ve ambalaj kararına doğrudan bağlanır."
+        ]
+      },
+      {
+        "id": "otorite",
+        "title": "Otorite mesajı: doğru analiz formülün sahada bozulmasını önler",
+        "paragraphs": [
+          "Retinol aktif madde miktar tayini; formülün iddiasını, güvenlik dosyasını ve raf ömrü kararını doğrudan etkiler. Gelişmiş kromatografi altyapısı ve metot disiplini olmadan, ürün piyasadayken aktif seviyesinin ne kadar korunduğunu güvenle söylemek mümkün değildir.",
+          "Avrupa pazarı için retinol seviyesi ve etiket beyanı ayrıca regülasyon açısından okunmalıdır. Detay için <a href=\"/mevzuat/retinol-serum-avrupa-uts-cpnp/\">Retinol serum mevzuat sayfasına</a> geçebilirsiniz."
+        ]
+      }
+    ],
+    "links": [
+      ["Retinol serum zorunlu test paketini incele ↗", "/urunler/retinol-serum/"],
+      ["CPNP/ÜTS mevzuat gereklilikleri ↗", "/mevzuat/retinol-serum-avrupa-uts-cpnp/"]
+    ],
+    "cta": {
+      "eyebrow": "LAB ANALİZ TALEBİ",
+      "title": "Retinol aktif madde miktar tayini için numunenizi planlayalım.",
+      "body": "Ürün formülünüz, hedef aktif beyanınız ve stabilite hedefinizle birlikte analiz kapsamını belirleyelim.",
+      "button": "Analiz planı iste ↗",
+      "href": "/iletisim/"
+    }
+  },
+  "regulationPage": {
+    "metaTitle": "Retinol Serum CPNP ve ÜTS Mevzuat Gereklilikleri | Unique Analyse",
+    "metaDescription": "Retinol serum için Avrupa CPNP, Türkiye ÜTS, PIF, CPSR, etiket, claim ve retinol kullanım kısıtlamaları hakkında regülasyon rehberi.",
+    "activeNav": "mevzuat",
+    "eyebrow": "// MEVZUAT ŞABLONU · CPNP / ÜTS",
+    "h1": "RETİNOL SERUM İÇİN AVRUPA (CPNP) VE TÜRKİYE (ÜTS) KOZMETİK YÖNETMELİĞİ GEREKLİLİKLERİ",
+    "lead": "Retinol serumun Avrupa ve Türkiye pazarında güvenle konumlanması için formül, aktif madde seviyesi, etiket, güvenlik raporu, PIF ve bildirim adımları birlikte değerlendirilmelidir.",
+    "tocTitle": "Mevzuat akışı",
+    "toc": [
+      ["Ülke bazlı gereklilik", "ulke"],
+      ["PIF dosyası", "pif"],
+      ["Etiket ve claim", "etiket"],
+      ["Operasyonel süreç", "timeline"],
+      ["İlk evraklar", "evrak"]
+    ],
+    "note": "<b>Regülasyon uyarısı:</b> Retinol ve retinol türevleri Avrupa’da özel limit ve etiket beklentileriyle değerlendirilir. “%1 retinol” beyanı saf retinol anlamına geliyorsa Avrupa pazarı için kritik kontrol gerektirir; eşdeğer hesap ve analitik doğrulama yapılmadan dosya kapatılmamalıdır.",
+    "sections": [
+      {
+        "id": "ulke",
+        "title": "Ülke bazlı yönetmelik: Türkiye ve Avrupa",
+        "compliance": [
+          ["Avrupa Birliği", "Regulation (EC) No 1223/2009 kozmetik ürün güvenliği, CPSR, PIF ve CPNP bildirim omurgasını belirler."],
+          ["Retinol limitleri", "Regulation (EU) 2024/996 ile vitamin A bileşikleri için ürün kategorisine göre maksimum konsantrasyon ve uyarı etiketi çerçevesi getirilmiştir."],
+          ["Türkiye", "Türk Kozmetik Yönetmeliği ve ÜTS bildirimi kapsamında ürün güvenliği, etiket, sorumlu firma ve ürün kayıt bilgileri hazırlanır."],
+          ["Claim kontrolü", "Avrupa’da claim ifadeleri Regulation (EU) No 655/2013 ortak kriterleri ile; Türkiye’de reklam/etiket mevzuatı ve ürün güvenliği ilkeleriyle birlikte okunur."]
+        ],
+        "paragraphs": [
+          "Avrupa’ya retinol serum ihraç etmek isteyen bir marka için CPNP bildirimi son adımdır. Öncesinde <a href=\"/urunler/retinol-serum/\">retinol serum zorunlu testleri</a>, aktif madde doğrulaması ve güvenlik değerlendirmesi tamamlanmalıdır."
+        ]
+      },
+      {
+        "id": "pif",
+        "title": "PIF ve CPSR dosyası isterleri",
+        "paragraphs": [
+          "PIF, ürün piyasada olduğu sürece yetkili otoriteler tarafından talep edilebilecek teknik ürün dosyasıdır. Retinol serum için PIF yalnız formül ve etiket dosyası değildir; stabilite ve aktif madde kanıtının da bu dosyayla uyumlu olması gerekir."
+        ],
+        "list": [
+          "<b>Ürün formülü ve INCI listesi:</b> Retinol, türev, taşıyıcı sistem ve yardımcı bileşenler net olmalıdır.",
+          "<b>CPSR / Ürün Güvenlik Raporu:</b> Maruziyet, kullanım şekli, hedef kullanıcı ve toksikolojik profil değerlendirilir.",
+          "<b>Stabilite kanıtı:</b> Retinolün raf ömrü boyunca korunup korunmadığı gösterilmelidir.",
+          "<b>Mikrobiyoloji ve challenge kanıtı:</b> Ürünün kullanım süresince mikrobiyolojik güvenliği desteklenmelidir.",
+          "<b>Etiket ve uyarılar:</b> Kullanım talimatı, gece kullanımı, güneş hassasiyeti gibi marka iddiaları ve uyarılar bilimsel dosyayla tutarlı olmalıdır.",
+          "<b>Alerjen ve hammadde belgeleri:</b> Parfüm/bitkisel ekstrakt gibi ek riskler varsa CoA, SDS ve alerjen beyanları dosyaya bağlanmalıdır."
+        ]
+      },
+      {
+        "id": "etiket",
+        "title": "Etiket, retinol limiti ve claim dili",
+        "paragraphs": [
+          "Retinol serumda etiket dili özellikle dikkatli kurulmalıdır. “Yüksek oran”, “klinik etki”, “anti-aging” veya “dermatolojik olarak test edilmiştir” gibi ifadeler; aktif madde miktar tayini, stabilite, saha çalışması veya literatür desteğiyle ilişkilendirilmelidir.",
+          "Aktif seviyenin laboratuvarda nasıl doğrulandığını görmek için <a href=\"/testler/retinol-aktif-madde-miktar-tayini/\">Retinol aktif madde miktar tayini test sayfasını</a> inceleyebilirsiniz."
+        ]
+      },
+      {
+        "id": "timeline",
+        "title": "Operasyonel süreç ve tahmini zaman planı",
+        "timeline": [
+          ["Hafta 0", "Doküman kabulü", "Formül, etiket taslağı, hedef pazar, hammadde CoA/SDS/TDS belgeleri alınır."],
+          ["Hafta 1-2", "Ön regülasyon okuması", "Retinol seviyesi, ürün tipi, claim dili ve eksik testler belirlenir."],
+          ["Hafta 2-8+", "Analiz ve stabilite", "Mikrobiyoloji, challenge, aktif madde tayini ve stabilite planı ürün riskine göre yürütülür."],
+          ["Dosya kapanışı", "CPSR/PIF/ÜTS/CPNP", "Analiz sonuçları güvenlik raporu ve bildirim hazırlık dosyasına bağlanır."]
+        ]
+      },
+      {
+        "id": "evrak",
+        "title": "Müşteriden beklenen ilk evraklar",
+        "list": [
+          "Güncel formül ve hedef aktif beyanı",
+          "Retinol hammaddesine ait CoA, SDS, TDS ve saklama koşulları",
+          "Ambalaj bilgisi ve dolum tipi",
+          "Etiket/ambalaj taslağı ve kullanılacak claim ifadeleri",
+          "Hedef pazar: Türkiye, AB, İngiltere, ABD veya çoklu pazar",
+          "Mevcut analiz raporları ve stabilite verileri"
+        ]
+      }
+    ],
+    "links": [
+      ["Retinol serum ürün test planına geç ↗", "/urunler/retinol-serum/"],
+      ["Aktif madde miktar tayini nasıl yapılır? ↗", "/testler/retinol-aktif-madde-miktar-tayini/"]
+    ],
+    "cta": {
+      "eyebrow": "CPNP / ÜTS ÖN KONTROL",
+      "title": "Retinol serum dosyanız Avrupa ve Türkiye için hazır mı?",
+      "body": "Formül, etiket ve mevcut testlerinizi paylaşın. Unique Analyse ekibi CPNP, PIF, CPSR ve ÜTS hazırlık yol haritanızı çıkarsın.",
+      "button": "Mevzuat ön değerlendirmesi iste ↗",
+      "href": "/iletisim/"
+    }
+  }
+}

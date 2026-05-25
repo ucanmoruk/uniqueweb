@@ -1,0 +1,13 @@
+{
+  "name": "unique-analyse-site",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-info-tree.mjs && node scripts/generate-regulation-markets.mjs && node scripts/generate-test-library.mjs",
+    "generate:info-tree": "node scripts/generate-info-tree.mjs",
+    "generate:markets": "node scripts/generate-regulation-markets.mjs",
+    "generate:tests": "node scripts/generate-test-library.mjs",
+    "import:tests:pentyllabs": "node scripts/import-pentyl-services.mjs"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "slug": "gunes-kremi",
+  "name": "Güneş Kremi",
+  "activeNav": "hizmetler",
+  "productPath": "/urunler/gunes-kremi/",
+  "testPath": "/testler/gunes-kremi-spf-uva-fotostabilite/",
+  "regulationPath": "/mevzuat/gunes-kremi-avrupa-uts-cpnp/",
+  "productPage": {
+    "metaTitle": "Güneş Kremi Testleri, SPF/UVA Kanıtı ve Regülasyon Süreçleri | Unique Analyse",
+    "metaDescription": "Güneş kremi için SPF, UVA koruması, fotostabilite, suya dayanıklılık, mikrobiyoloji, stabilite, CPNP, ÜTS ve PIF süreçleri.",
+    "eyebrow": "// ÜRÜN ŞABLONU · GÜNEŞ KREMİ",
+    "h1": "GÜNEŞ KREMİ - SPF, UVA KORUMASI, FOTOSTABİLİTE VE REGÜLASYON SÜREÇLERİ",
+    "lead": "Güneş kremi, kozmetik ürünler içinde claim kanıtı en kritik kategorilerden biridir. SPF, UVA, fotostabilite, suya dayanıklılık, UV filtre uygunluğu ve etiket dili aynı teknik dosyada tutarlı olmalıdır.",
+    "toc": [
+      ["Zorunlu testler", "zorunlu-testler"],
+      ["Kalite kontrol", "kalite-kontrol"],
+      ["Raf ömrü", "raf-omru"],
+      ["Belgelendirme", "belgelendirme"],
+      ["Hedef pazar", "pazar"]
+    ],
+    "note": "<b>Uzman notu:</b> Güneş kreminde “SPF 50”, “geniş spektrum”, “suya dayanıklı” veya “çocuklar için” gibi ifadeler doğrudan test kanıtı ve etiket disiplini gerektirir. Claim dili, test sonucu ve mevzuat beklentisi aynı dosyada eşleşmelidir.",
+    "sections": [
+      {
+        "id": "zorunlu-testler",
+        "title": "Güneş kremi için zorunlu ve kritik testler",
+        "paragraphs": [
+          "Güneş kremi test planı yalnız fizikokimyasal kalite kontrol değildir. Ürünün UVB ve UVA koruma performansı, fotostabilitesi, emülsiyon stabilitesi, mikrobiyolojik güvenliği ve ambalaj uyumu birlikte değerlendirilmelidir."
+        ],
+        "cards": [
+          ["01", "SPF / UVB koruması", "Etiketlenen SPF değerinin uygun test yöntemiyle desteklenmesi gerekir."],
+          ["02", "UVA koruması", "UVA koruma seviyesi ve UVA logosu/claim dili ürün dosyasında gerekçelendirilmelidir."],
+          ["03", "Fotostabilite", "UV filtre sisteminin ışık altında performansını ne kadar koruduğu değerlendirilir."],
+          ["04", "Mikrobiyoloji ve challenge", "Su içeren emülsiyon sistemlerinde mikrobiyolojik güvenlik ve koruyucu etkinlik kritik önemdedir."]
+        ]
+      },
+      {
+        "id": "kalite-kontrol",
+        "title": "Kalite kontrol adımları",
+        "paragraphs": [
+          "Güneş kremi kalite kontrolünde UV filtre sistemi, emülsiyon yapısı, dağılım homojenliği ve batch tutarlılığı birlikte izlenir. Ürün performansı küçük formül veya proses değişikliklerinden etkilenebilir."
+        ],
+        "list": [
+          "<b>UV filtre uygunluğu:</b> Kullanılan organik/inorganik filtreler hedef pazar izinleri ve maksimum konsantrasyonları açısından değerlendirilir.",
+          "<b>Batch kontrolü:</b> pH, viskozite, görünüm, koku, renk, dolum ağırlığı ve emülsiyon stabilitesi takip edilir.",
+          "<b>Aktif/filtre dağılımı:</b> Filtre sisteminin formül içinde homojen dağılımı performans açısından kritiktir.",
+          "<b>Test bağlantısı:</b> Detaylı metot akışı için <a href=\"/testler/gunes-kremi-spf-uva-fotostabilite/\">Güneş kremi SPF, UVA ve fotostabilite test sayfasını</a> inceleyebilirsiniz."
+        ]
+      },
+      {
+        "id": "raf-omru",
+        "title": "Raf ömrü ve saha uyumluluk",
+        "paragraphs": [
+          "Güneş kremi sahada yüksek sıcaklık, plaj/deniz kullanımı, çanta içinde taşıma ve yoğun güneş ışığına maruz kalabilir. Bu nedenle stabilite, ambalaj ve kullanım senaryosu claim dosyasının parçasıdır."
+        ],
+        "cardsClass": "two",
+        "cards": [
+          ["AMBALAJ", "Tüp, pompa ve kapak uyumu", "Ambalaj sızdırmazlığı, ürün ayrışması ve kullanım kolaylığı raf ömrünü etkileyebilir."],
+          ["SAHA", "Güneş, sıcaklık ve su teması", "Ürünün gerçek kullanım koşullarında performans iddiasını koruyup korumadığı değerlendirilmelidir."]
+        ]
+      },
+      {
+        "id": "belgelendirme",
+        "title": "Belgelendirme ve kayıt",
+        "paragraphs": [
+          "Güneş kremi test sonuçları Ürün Güvenlik Değerlendirme Raporu, PIF, etiket kontrolü, claim destek dosyası ve bildirim hazırlığına bağlanır. SPF/UVA raporları pazarlama iddiasının temel kanıtıdır.",
+          "Avrupa ve Türkiye gereklilikleri için <a href=\"/mevzuat/gunes-kremi-avrupa-uts-cpnp/\">Güneş kremi CPNP ve ÜTS mevzuat sayfasına</a> geçebilirsiniz."
+        ]
+      },
+      {
+        "id": "pazar",
+        "title": "Hedef pazar seçimi: ÜTS, CPNP, SCPN ve FDA/MoCRA",
+        "paragraphs": [
+          "Türkiye ve Avrupa’da güneş ürünleri kozmetik çerçevede değerlendirilirken, ABD pazarında güneş koruyucu ürünler OTC monograph yaklaşımı nedeniyle farklı bir regülasyon mantığına sahip olabilir. Hedef pazar bu nedenle en başta belirlenmelidir."
+        ]
+      }
+    ],
+    "links": [
+      ["SPF, UVA ve fotostabilite testleri nasıl yapılır? ↗", "/testler/gunes-kremi-spf-uva-fotostabilite/"],
+      ["Güneş kremi için CPNP/ÜTS gereklilikleri ↗", "/mevzuat/gunes-kremi-avrupa-uts-cpnp/"]
+    ],
+    "cta": {
+      "eyebrow": "GÜNEŞ ÜRÜNÜ ÖN DEĞERLENDİRME",
+      "title": "Güneş kremi performans ve regülasyon dosyanızı birlikte kuralım.",
+      "body": "Formül, SPF hedefi, UV filtre sistemi, hedef pazar ve mevcut testlerinizi paylaşın. Unique Analyse ekibi ürününüz için analiz, claim ve bildirim yol haritasını çıkarsın.",
+      "button": "Güneş kremi test planı iste ↗",
+      "href": "/iletisim/"
+    }
+  },
+  "testPage": {
+    "metaTitle": "Güneş Kremi SPF, UVA ve Fotostabilite Testleri Nasıl Yapılır? | Unique Analyse",
+    "metaDescription": "Güneş kremi için SPF, UVA koruması, fotostabilite, suya dayanıklılık, emülsiyon stabilitesi ve raporlama test yaklaşımı.",
+    "eyebrow": "// TEST ŞABLONU · GÜNEŞ KREMİ",
+    "h1": "GÜNEŞ KREMİ SPF, UVA VE FOTOSTABİLİTE TESTLERİ NASIL YAPILIR?",
+    "lead": "Güneş kremi analizinde ürünün yalnız SPF değeri değil, UVA koruması, fotostabilitesi, suya dayanıklılık iddiası, emülsiyon stabilitesi ve etiket dili birlikte değerlendirilmelidir.",
+    "tocTitle": "Test akışı",
+    "toc": [
+      ["Metot ve cihazlar", "metot"],
+      ["Test prosedürü", "prosedur"],
+      ["Fotostabilite", "fotostabilite"],
+      ["Raporlama", "raporlama"],
+      ["Otorite mesajı", "otorite"]
+    ],
+    "note": "<b>Bu sayfa neden kritik?</b> Güneş kremi claimleri tüketici güvenliğiyle doğrudan ilişkilidir. SPF veya UVA iddiası, pazarlama beyanı olmaktan önce testle desteklenmiş teknik performans bilgisidir.",
+    "sections": [
+      {
+        "id": "metot",
+        "title": "Metot ve cihazlar",
+        "paragraphs": [
+          "SPF ve UVA performansı için uluslararası kabul görmüş test yaklaşımları kullanılır. UV spektral ölçüm, güneş simülatörü, kontrollü film uygulaması, fotostabilite izleme ve gerektiğinde suya dayanıklılık protokolleri ürün iddiasına göre planlanır."
+        ],
+        "cards": [
+          ["SPF", "UVB koruma performansı", "Etiketlenen SPF değerinin uygun test yaklaşımıyla desteklenmesi gerekir."],
+          ["UVA", "UVA koruma seviyesi", "UVA-PF veya UVA koruma oranı claim dosyasında gerekçelendirilir."],
+          ["FOTO", "Fotostabilite", "UV filtre sisteminin ışığa maruz kaldığında performansını koruyup korumadığı izlenir."],
+          ["SU", "Suya dayanıklılık", "Bu claim kullanılıyorsa suyla temas sonrası performansın ayrıca desteklenmesi gerekir."]
+        ]
+      },
+      {
+        "id": "prosedur",
+        "title": "Test prosedürü",
+        "orderedList": [
+          "<b>Numune kabulü:</b> SPF hedefi, ürün tipi, filtre sistemi, lot ve ambalaj bilgisi kayıt altına alınır.",
+          "<b>Film hazırlığı:</b> Ürün kontrollü miktar ve yüzey koşullarıyla test yüzeyine uygulanır.",
+          "<b>Spektral değerlendirme:</b> UVB/UVA aralığında absorpsiyon veya koruma performansı izlenir.",
+          "<b>Fotostabilite maruziyeti:</b> Ürün ışık maruziyeti sonrası tekrar değerlendirilir.",
+          "<b>Claim kontrolü:</b> SPF, UVA, geniş spektrum, suya dayanıklılık ve çocuk kullanımı iddiaları raporla eşleştirilir.",
+          "<b>Raporlama:</b> Sonuçlar etiket beyanı ve hedef pazar gereklilikleriyle birlikte yorumlanır."
+        ]
+      },
+      {
+        "id": "fotostabilite",
+        "title": "Fotostabilite ve emülsiyon stabilitesi",
+        "paragraphs": [
+          "Güneş kremi performansı UV filtre sisteminin formül içinde stabil kalmasına bağlıdır. Yüksek sıcaklık, ışık, ambalaj ve faz ayrışması performans iddiasını etkileyebilir."
+        ],
+        "cardsClass": "two",
+        "cards": [
+          ["FORMÜL", "Emülsiyon dayanımı", "Faz ayrışması, viskozite değişimi ve filtre dağılımı ürün performansını etkileyebilir."],
+          ["IŞIK", "UV maruziyeti", "Filtre sisteminin ışık sonrası etkinliğini koruması fotostabilite açısından değerlendirilir."]
+        ]
+      },
+      {
+        "id": "raporlama",
+        "title": "Raporlama",
+        "paragraphs": [
+          "Test sonuçları <a href=\"/urunler/gunes-kremi/\">güneş kremi ürün dosyasında</a> SPF/UVA claimleri, etiket kontrolü, PIF ve güvenlik değerlendirmesiyle birlikte okunur."
+        ]
+      },
+      {
+        "id": "otorite",
+        "title": "Otorite mesajı: güneş ürünü claimi bilimsel kanıt ister",
+        "paragraphs": [
+          "Güneş kreminde eksik veya zayıf test dosyası yalnız regülasyon riski değil, tüketici güvenliği riski de doğurur. Bu nedenle ürün performansı, stabilite ve etiket dili aynı teknik çerçevede değerlendirilmelidir.",
+          "Avrupa ve Türkiye regülasyon dosyası için <a href=\"/mevzuat/gunes-kremi-avrupa-uts-cpnp/\">güneş kremi mevzuat sayfasına</a> geçebilirsiniz."
+        ]
+      }
+    ],
+    "links": [
+      ["Güneş kremi ürün test paketini incele ↗", "/urunler/gunes-kremi/"],
+      ["CPNP/ÜTS mevzuat gereklilikleri ↗", "/mevzuat/gunes-kremi-avrupa-uts-cpnp/"]
+    ],
+    "cta": {
+      "eyebrow": "SPF / UVA ANALİZ TALEBİ",
+      "title": "Güneş kremi performans test kapsamını birlikte planlayalım.",
+      "body": "SPF hedefiniz, filtre sisteminiz, ambalajınız ve hedef pazarınızla birlikte test planını netleştirelim.",
+      "button": "Güneş kremi analiz planı iste ↗",
+      "href": "/iletisim/"
+    }
+  },
+  "regulationPage": {
+    "metaTitle": "Güneş Kremi CPNP ve ÜTS Mevzuat Gereklilikleri | Unique Analyse",
+    "metaDescription": "Güneş kremi için Avrupa CPNP, Türkiye ÜTS, PIF, CPSR, SPF/UVA claim, UV filtre ve etiket gereklilikleri.",
+    "activeNav": "mevzuat",
+    "eyebrow": "// MEVZUAT ŞABLONU · GÜNEŞ KREMİ",
+    "h1": "GÜNEŞ KREMİ İÇİN AVRUPA (CPNP) VE TÜRKİYE (ÜTS) KOZMETİK MEVZUATI",
+    "lead": "Güneş kremi, Avrupa ve Türkiye pazarında SPF/UVA claimleri, UV filtre uygunluğu, güvenlik dosyası ve etiket dili açısından yüksek dikkat gerektiren bir kozmetik ürün kategorisidir.",
+    "tocTitle": "Mevzuat akışı",
+    "toc": [
+      ["Ülke bazlı gereklilik", "ulke"],
+      ["PIF dosyası", "pif"],
+      ["Etiket ve claim", "etiket"],
+      ["Operasyonel süreç", "timeline"],
+      ["İlk evraklar", "evrak"]
+    ],
+    "note": "<b>Regülasyon uyarısı:</b> Güneş ürünlerinde “tam koruma”, “sunblock” veya testle desteklenmeyen suya dayanıklılık gibi ifadeler risklidir. SPF/UVA claimleri test raporu ve etiket disipliniyle desteklenmelidir.",
+    "sections": [
+      {
+        "id": "ulke",
+        "title": "Ülke bazlı yönetmelik: Türkiye ve Avrupa",
+        "compliance": [
+          ["Avrupa Birliği", "Regulation (EC) No 1223/2009 kapsamında CPSR, PIF, sorumlu kişi ve CPNP bildirimi gerekir."],
+          ["Güneş koruması", "European Commission 2006/647/EC Recommendation, güneş ürünlerinde UVA/UVB etkinliği ve claim dili için önemli referans çerçevesidir."],
+          ["Türkiye", "Türk Kozmetik Yönetmeliği ve ÜTS bildirimi kapsamında ürün güvenliği, etiket, firma ve ürün bilgileri hazırlanır."],
+          ["ABD", "ABD pazarı güneş koruyucuları farklı OTC/FDA yaklaşımıyla değerlendirebilir; bu nedenle hedef pazar baştan ayrıştırılmalıdır."]
+        ],
+        "paragraphs": [
+          "Bildirim öncesinde <a href=\"/urunler/gunes-kremi/\">güneş kremi zorunlu testleri</a>, SPF/UVA kanıtı ve güvenlik değerlendirmesi tamamlanmalıdır."
+        ]
+      },
+      {
+        "id": "pif",
+        "title": "PIF ve CPSR dosyası isterleri",
+        "paragraphs": [
+          "Güneş kremi için PIF dosyası formül, UV filtre bilgisi, SPF/UVA raporları, mikrobiyoloji, stabilite, etiket, claim gerekçesi ve güvenlik değerlendirmesini birlikte içermelidir."
+        ],
+        "list": [
+          "Güncel formül ve UV filtre konsantrasyonları",
+          "UV filtrelerin hedef pazara uygunluk kontrolü",
+          "SPF, UVA, fotostabilite ve varsa suya dayanıklılık raporları",
+          "Mikrobiyoloji, challenge ve stabilite verileri",
+          "Etiket, kullanım talimatı, uyarılar ve claim metinleri",
+          "Nanomateryal varsa ilgili beyan ve bildirim gereklilikleri"
+        ]
+      },
+      {
+        "id": "etiket",
+        "title": "Etiket ve claim dili",
+        "paragraphs": [
+          "SPF 30, SPF 50, UVA, geniş spektrum, çocuklar için, suya dayanıklı veya leke karşıtı destek gibi ifadeler ürün dosyasındaki testlerle uyumlu olmalıdır.",
+          "Test yaklaşımı için <a href=\"/testler/gunes-kremi-spf-uva-fotostabilite/\">güneş kremi SPF/UVA test sayfasını</a> inceleyebilirsiniz."
+        ]
+      },
+      {
+        "id": "timeline",
+        "title": "Operasyonel süreç ve tahmini zaman planı",
+        "timeline": [
+          ["Hafta 0", "Doküman kabulü", "Formül, SPF hedefi, UV filtre sistemi, etiket ve hedef pazar bilgileri alınır."],
+          ["Hafta 1-2", "Ön uygunluk okuması", "UV filtre uygunluğu, claim dili ve eksik testler değerlendirilir."],
+          ["Hafta 2-10+", "Performans ve stabilite", "SPF/UVA, fotostabilite, mikrobiyoloji, challenge ve stabilite planı yürütülür."],
+          ["Dosya kapanışı", "PIF/ÜTS/CPNP", "Analiz sonuçları güvenlik dosyası ve bildirim hazırlığına bağlanır."]
+        ]
+      },
+      {
+        "id": "evrak",
+        "title": "Müşteriden beklenen ilk evraklar",
+        "list": [
+          "Formül ve UV filtre yüzdeleri",
+          "SPF hedefi ve claim metinleri",
+          "Etiket/ambalaj taslağı",
+          "Hammadde CoA/SDS/TDS belgeleri",
+          "Mevcut SPF/UVA/stabilite raporları",
+          "Hedef pazar bilgisi: Türkiye, AB, İngiltere veya ABD"
+        ]
+      }
+    ],
+    "links": [
+      ["Güneş kremi ürün test planına geç ↗", "/urunler/gunes-kremi/"],
+      ["SPF/UVA test yaklaşımı ↗", "/testler/gunes-kremi-spf-uva-fotostabilite/"]
+    ],
+    "cta": {
+      "eyebrow": "GÜNEŞ ÜRÜNÜ DOSYA KONTROLÜ",
+      "title": "Güneş kremi dosyanız CPNP ve ÜTS için hazır mı?",
+      "body": "Formül, SPF hedefi, etiket ve mevcut testlerinizi paylaşın. Unique Analyse ekibi güneş kremi için güvenlik, claim ve bildirim hazırlık yol haritanızı çıkarsın.",
+      "button": "Mevzuat ön değerlendirmesi iste ↗",
+      "href": "/iletisim/"
+    }
+  }
+}

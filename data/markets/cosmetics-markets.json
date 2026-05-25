@@ -1,0 +1,462 @@
+{
+  "updated": "2026-05-26",
+  "markets": [
+    {
+      "slug": "avrupa-birligi",
+      "name": "Avrupa Birliği",
+      "region": "AB / AEA",
+      "badge": "CPNP",
+      "summary": "Avrupa Birliği kozmetik pazarında temel omurga ürün güvenliği, sorumlu kişi, PIF/CPSR, CPNP bildirimi, GMP ve etiket kontrolüdür. Ürün piyasaya çıkmadan önce formül, claim ve bildirim dosyası aynı teknik mantıkta kapatılmalıdır.",
+      "authority": "European Commission ve üye ülke yetkili otoriteleri",
+      "regulationName": "Regulation (EC) No 1223/2009 on cosmetic products",
+      "applicationDate": "11 Temmuz 2013'ten itibaren uygulanır.",
+      "validity": "Geçerli AB çerçevesidir; ekler, kısıtlı/yasaklı maddeler ve alerjen etiketleme kuralları düzenli güncellenir.",
+      "notification": "CPNP üzerinden ürün piyasaya arz edilmeden önce bildirim yapılır. CPNP bildirimi ürün güvenlik değerlendirmesinin yerine geçmez; dosyanın hazır olduğunu gösteren son operasyonel adımdır.",
+      "requirements": [
+        "AB içinde yerleşik bir Responsible Person tanımlanır.",
+        "Formül, hammadde, ambalaj ve kullanım senaryosuna göre CPSR hazırlanır.",
+        "PIF dosyası ürünün piyasaya arzından itibaren erişilebilir tutulur.",
+        "CPNP bildirimi ürün piyasaya çıkmadan önce tamamlanır.",
+        "Etiket; INCI, sorumlu kişi adresi, içerik miktarı, PAO/son kullanma, uyarılar, kullanım amacı ve parti bilgisi açısından kontrol edilir.",
+        "Claim ifadeleri Regulation (EU) No 655/2013 ortak kriterleri ve kanıt seviyesi ile uyumlu olmalıdır.",
+        "Nanomateryal, UV filtre, koruyucu, renklendirici ve özel kısıtlı bileşenler ekler üzerinden ayrıca taranır."
+      ],
+      "documents": [
+        "CPSR / Ürün Güvenlik Raporu",
+        "PIF / Product Information File",
+        "CPNP bildirim çıktısı",
+        "GMP uygunluk kanıtı ve üretici bilgileri",
+        "Stabilite, mikrobiyoloji, challenge ve gerekli performans/claim test raporları",
+        "Etiket ve ambalaj kontrol notu"
+      ],
+      "countryNotes": [
+        "AB içinde temel kozmetik tüzüğü harmonizedir; ülke farkları daha çok dil, piyasa gözetimi ve yerel denetim pratiklerinde ortaya çıkar.",
+        "Retinol, UV filtreler, alerjenler ve çocuk ürünleri gibi riskli kategorilerde güncel ekler kontrol edilmeden dosya kapatılmamalıdır."
+      ],
+      "timeline": [
+        ["01", "Formül taraması", "INCI, aktifler, kısıtlı maddeler, hedef kullanıcı ve claim ilk olarak değerlendirilir."],
+        ["02", "Test planı", "Mikrobiyoloji, challenge, stabilite, aktif madde/performans ve ambalaj uyumu ürün riskine göre planlanır."],
+        ["03", "CPSR ve PIF", "Güvenlik değerlendirmesi, etiket ve teknik kanıt dosyası birlikte tamamlanır."],
+        ["04", "CPNP", "Dosya tamamlandıktan sonra bildirim yapılır ve pazara çıkış kontrol listesi kapanır."]
+      ],
+      "sources": [
+        ["Regulation (EC) No 1223/2009", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1223"],
+        ["Cosmetic Product Notification Portal (CPNP)", "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-product-notification-portal_en"],
+        ["Regulation (EU) No 655/2013 - cosmetic claims", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0655"]
+      ]
+    },
+    {
+      "slug": "almanya",
+      "name": "Almanya",
+      "region": "Avrupa / AB",
+      "badge": "AB + yerel denetim",
+      "summary": "Almanya'da kozmetik ürünler AB 1223/2009 çerçevesiyle piyasaya çıkar. Dosya yapısı AB ile aynıdır; Almanca etiket, Responsible Person bilgisi ve eyalet bazlı piyasa gözetimi pratikleri uygulamada önemlidir.",
+      "authority": "BVL koordinasyonu ve eyalet yetkili otoriteleri",
+      "regulationName": "Regulation (EC) No 1223/2009; Almanya'da AB kozmetik tüzüğü ve yerel gözetim uygulamaları",
+      "applicationDate": "AB çerçevesi 11 Temmuz 2013'ten itibaren uygulanır.",
+      "validity": "AB ile uyumlu ortak çerçeve geçerlidir; Almanca tüketici bilgilendirme dili ve yerel denetim beklentileri ayrıca ele alınır.",
+      "notification": "CPNP bildirimi AB düzeyinde yapılır; Almanya için ayrı bir ürün bildirimi normalde gerekmez.",
+      "requirements": [
+        "AB Responsible Person bilgisi ve PIF erişilebilirliği sağlanır.",
+        "Almanca etiket, kullanım talimatı ve zorunlu uyarılar kontrol edilir.",
+        "CPSR, test raporları ve GMP kanıtları denetime hazır tutulur.",
+        "Claimler, Alman tüketici beklentisi ve AB ortak claim kriterleriyle birlikte okunur.",
+        "Riskli kategorilerde yerel piyasa gözetimi sorularına hızlı yanıt verecek teknik özet hazırlanır."
+      ],
+      "documents": [
+        "CPSR ve PIF",
+        "CPNP bildirimi",
+        "Almanca etiket kontrol çıktısı",
+        "Analiz ve claim destek raporları",
+        "Üretici ve Responsible Person bilgileri"
+      ],
+      "countryNotes": [
+        "Almanya pazarı teknik dosya disiplinine ve net etiket diline duyarlıdır.",
+        "Pazarlama claimleri ölçülebilir kanıtla desteklenmediğinde denetim ve platform süreçlerinde risk oluşturabilir."
+      ],
+      "timeline": [
+        ["01", "AB dosya kurulumu", "Formül ve test dosyası AB gereklilikleriyle kurulur."],
+        ["02", "Almanca etiket", "Zorunlu bilgiler ve uyarılar Almanca tüketici diliyle kontrol edilir."],
+        ["03", "CPNP", "Ürün AB bildirim sistemine kaydedilir."],
+        ["04", "Denetime hazırlık", "PIF, test raporları ve claim destekleri hızlı paylaşılabilir şekilde düzenlenir."]
+      ],
+      "sources": [
+        ["Regulation (EC) No 1223/2009", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1223"],
+        ["Cosmetic Product Notification Portal (CPNP)", "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-product-notification-portal_en"]
+      ]
+    },
+    {
+      "slug": "fransa",
+      "name": "Fransa",
+      "region": "Avrupa / AB",
+      "badge": "AB + Fransızca etiket",
+      "summary": "Fransa'da temel çerçeve AB kozmetik tüzüğüdür. Fransızca etiket, sorumlu kişi bilgisi, claim kanıtı ve hassas kullanıcı grupları için güvenlik değerlendirmesi kritik okunur.",
+      "authority": "ANSM, DGCCRF ve ilgili Fransız piyasa gözetim otoriteleri",
+      "regulationName": "Regulation (EC) No 1223/2009; Fransa'da AB kozmetik tüzüğü ve yerel piyasa gözetimi",
+      "applicationDate": "AB çerçevesi 11 Temmuz 2013'ten itibaren uygulanır.",
+      "validity": "AB harmonize çerçevesi geçerlidir; Fransızca etiket ve tüketici bilgilendirme dili dosyada ayrıca kontrol edilir.",
+      "notification": "CPNP bildirimi AB düzeyinde yapılır.",
+      "requirements": [
+        "Fransızca zorunlu etiket alanları ve kullanım uyarıları doğrulanır.",
+        "PIF ve CPSR, AB Responsible Person tarafından erişilebilir tutulur.",
+        "Claim ifadeleri 655/2013 ortak kriterleri ve test kanıtlarıyla eşleştirilir.",
+        "Çocuk, güneş, retinoid, peeling/asit ve hassas cilt ürünlerinde risk profili ayrıca açıklanır.",
+        "Alerjen, nanomateryal ve kısıtlı içerik kontrolü güncel AB ekleri üzerinden yapılır."
+      ],
+      "documents": [
+        "CPSR ve PIF",
+        "Fransızca etiket kontrolü",
+        "CPNP bildirimi",
+        "Claim ve saha/etkinlik raporları",
+        "Stabilite ve mikrobiyoloji kanıtları"
+      ],
+      "countryNotes": [
+        "Fransa pazarı iddia dili ve tüketici güvenliği açısından yüksek hassasiyet gösterir.",
+        "Dermokozmetik konumlandırmada laboratuvar raporu ile pazarlama metni aynı kanıt ağacında tutulmalıdır."
+      ],
+      "timeline": [
+        ["01", "Teknik dosya", "AB dosya gereklilikleri hazırlanır."],
+        ["02", "Fransızca etiket", "Tüketiciye görünen tüm zorunlu bilgiler kontrol edilir."],
+        ["03", "Claim dosyası", "Etkinlik, saha ve analitik kanıtlar pazarlama ifadelerine bağlanır."],
+        ["04", "CPNP ve çıkış", "Bildirim ve pazara çıkış kontrol listesi kapatılır."]
+      ],
+      "sources": [
+        ["Regulation (EC) No 1223/2009", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1223"],
+        ["Regulation (EU) No 655/2013 - cosmetic claims", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R0655"]
+      ]
+    },
+    {
+      "slug": "italya",
+      "name": "İtalya",
+      "region": "Avrupa / AB",
+      "badge": "AB + İtalyanca etiket",
+      "summary": "İtalya için kozmetik pazara çıkış AB kozmetik tüzüğü, CPNP bildirimi ve PIF/CPSR dosyası üzerine kurulur. İtalyanca etiket ve ithalatçı/dağıtıcı rolü operasyonel kontrolde önem kazanır.",
+      "authority": "Ministero della Salute ve yerel piyasa gözetim otoriteleri",
+      "regulationName": "Regulation (EC) No 1223/2009; İtalya'da AB kozmetik tüzüğü uygulaması",
+      "applicationDate": "AB çerçevesi 11 Temmuz 2013'ten itibaren uygulanır.",
+      "validity": "AB çerçevesi geçerlidir; İtalyanca etiket ve yerel dağıtım belgeleri ayrıca kontrol edilir.",
+      "notification": "CPNP bildirimi AB düzeyinde yapılır.",
+      "requirements": [
+        "İtalyanca etiket, kullanım talimatı ve uyarı metinleri hazırlanır.",
+        "AB Responsible Person ve PIF erişilebilirliği sağlanır.",
+        "Ürün claimleri test raporu, saha çalışması veya bilimsel gerekçe ile desteklenir.",
+        "GMP ve üretici kalite belgeleri dosyada düzenli tutulur.",
+        "Hedef ürün güneş kremi, çocuk ürünü veya aktif içerikli serumsa ek test kanıtları planlanır."
+      ],
+      "documents": [
+        "CPSR/PIF",
+        "CPNP bildirimi",
+        "İtalyanca etiket kontrolü",
+        "Analiz ve stabilite raporları",
+        "Dağıtıcı/ithalatçı operasyon notları"
+      ],
+      "countryNotes": [
+        "Aynı AB dosyası İtalya için temel oluşturur; eksik kalan kısım çoğunlukla dil, dağıtım ve kanıt sunumudur.",
+        "E-ticaret ve pazar yeri satışlarında ürün sayfası claimleri de etiket dosyası kadar tutarlı olmalıdır."
+      ],
+      "timeline": [
+        ["01", "Ürün dosyası", "AB güvenlik ve test dosyası hazırlanır."],
+        ["02", "Etiket uyarlama", "İtalyanca zorunlu bilgiler tamamlanır."],
+        ["03", "Bildirim", "CPNP kaydı ve ürün bilgisi kontrol edilir."],
+        ["04", "Satış kanıtı", "Claim metinleri ve rapor referansları satış kanallarına uyarlanır."]
+      ],
+      "sources": [
+        ["Regulation (EC) No 1223/2009", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1223"],
+        ["Cosmetic Product Notification Portal (CPNP)", "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-product-notification-portal_en"]
+      ]
+    },
+    {
+      "slug": "ispanya",
+      "name": "İspanya",
+      "region": "Avrupa / AB",
+      "badge": "AB + İspanyolca etiket",
+      "summary": "İspanya'da AB 1223/2009 çerçevesi geçerlidir. İspanyolca etiket, AEMPS uygulamaları, CPNP bildirimi, PIF/CPSR ve claim kanıtı birlikte yönetilmelidir.",
+      "authority": "AEMPS ve ilgili yerel otoriteler",
+      "regulationName": "Regulation (EC) No 1223/2009; İspanya'da AB kozmetik tüzüğü uygulaması",
+      "applicationDate": "AB çerçevesi 11 Temmuz 2013'ten itibaren uygulanır.",
+      "validity": "AB harmonize çerçevesi geçerlidir; İspanyolca tüketici bilgilendirme dili ayrıca doğrulanır.",
+      "notification": "CPNP bildirimi AB düzeyinde yapılır.",
+      "requirements": [
+        "İspanyolca etiket ve zorunlu uyarı metinleri hazırlanır.",
+        "CPSR, PIF ve CPNP bilgileri ürün varyantlarıyla eşleştirilir.",
+        "Claim ve reklam metinleri test kanıtı ile desteklenir.",
+        "Hassas cilt, güneş koruma, bebek/çocuk ve aktif içerikli ürünlerde ek güvenlik anlatımı kurulur.",
+        "Piyasa gözetimi için batch/lot, analiz raporu ve üretici bilgileri izlenebilir tutulur."
+      ],
+      "documents": [
+        "CPSR ve PIF",
+        "CPNP bildirimi",
+        "İspanyolca etiket kontrol çıktısı",
+        "Analitik ve etkinlik raporları",
+        "Stabilite ve mikrobiyoloji kanıtları"
+      ],
+      "countryNotes": [
+        "İspanya sayfası AB dosyasının ülke diline ve yerel piyasa beklentilerine çevrilmiş operasyon planı olarak kullanılmalıdır.",
+        "Amazon, distribütör veya zincir mağaza süreçlerinde ürün kayıt ve rapor isimleri birebir tutarlı tutulmalıdır."
+      ],
+      "timeline": [
+        ["01", "AB gereklilikleri", "Formül ve dosya AB çerçevesinde değerlendirilir."],
+        ["02", "İspanyolca kontrol", "Etiket ve kullanım talimatları İspanyolca hazırlanır."],
+        ["03", "CPNP", "Ürün bildirimi yapılır."],
+        ["04", "Kanal uyumu", "Pazar yeri, distribütör ve perakende dokümanları eşleştirilir."]
+      ],
+      "sources": [
+        ["Regulation (EC) No 1223/2009", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1223"],
+        ["Cosmetic Product Notification Portal (CPNP)", "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-product-notification-portal_en"]
+      ]
+    },
+    {
+      "slug": "hollanda",
+      "name": "Hollanda",
+      "region": "Avrupa / AB",
+      "badge": "AB + NVWA gözetimi",
+      "summary": "Hollanda için temel kozmetik gereklilikler AB 1223/2009, CPNP, PIF/CPSR ve etiket kontrolüdür. Dağıtım ve e-ticaret akışlarında ürün bilgisi, claim ve teknik dosya tutarlılığı ön plana çıkar.",
+      "authority": "NVWA ve ilgili Hollanda piyasa gözetim otoriteleri",
+      "regulationName": "Regulation (EC) No 1223/2009; Hollanda'da AB kozmetik tüzüğü uygulaması",
+      "applicationDate": "AB çerçevesi 11 Temmuz 2013'ten itibaren uygulanır.",
+      "validity": "AB çerçevesi geçerlidir; yerel dil ve denetim beklentileri ürün özelinde ele alınır.",
+      "notification": "CPNP bildirimi AB düzeyinde yapılır.",
+      "requirements": [
+        "AB Responsible Person ve PIF erişimi net tanımlanır.",
+        "Etiket dili, zorunlu uyarılar ve online satış metinleri kontrol edilir.",
+        "Claim ifadeleri kanıt düzeyi ile eşleştirilir.",
+        "Ürün varyantları ve renk/koku seçenekleri CPNP/PIF içinde doğru ayrıştırılır.",
+        "Analiz raporları ve batch bilgileri distribütör denetimine hazır tutulur."
+      ],
+      "documents": [
+        "CPSR/PIF",
+        "CPNP kaydı",
+        "Etiket ve online satış metni kontrolü",
+        "Test raporları",
+        "Ürün varyant matrisi"
+      ],
+      "countryNotes": [
+        "Hollanda çoğu marka için AB lojistik ve dağıtım kapısıdır; bu nedenle ürün bilgisi ve parti izlenebilirliği pratikte kritikleşir.",
+        "Dosya yalnız mevzuat için değil, distribütör ve pazar yeri due diligence süreçleri için de okunabilir hazırlanmalıdır."
+      ],
+      "timeline": [
+        ["01", "AB dosya kontrolü", "Formül, test ve güvenlik dosyası tamamlanır."],
+        ["02", "Varyant matrisi", "Renk, koku, hacim ve set kurguları ürün dosyasına bağlanır."],
+        ["03", "CPNP", "Bildirim ve Responsible Person bilgileri tamamlanır."],
+        ["04", "Dağıtım paketi", "Distribütörün isteyeceği rapor ve etiket özetleri hazırlanır."]
+      ],
+      "sources": [
+        ["Regulation (EC) No 1223/2009", "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009R1223"],
+        ["Cosmetic Product Notification Portal (CPNP)", "https://single-market-economy.ec.europa.eu/sectors/cosmetics/cosmetic-product-notification-portal_en"]
+      ]
+    },
+    {
+      "slug": "birlesik-krallik",
+      "name": "Birleşik Krallık",
+      "region": "Avrupa / UK",
+      "badge": "SCPN",
+      "summary": "Birleşik Krallık pazarı AB çerçevesine benzeyen ancak ayrı bildirim, Responsible Person ve etiket beklentileri olan bir akış ister. GB pazarı için OPSS bildirimi, UK Responsible Person ve PIF erişimi net kurulmalıdır.",
+      "authority": "Office for Product Safety and Standards (OPSS)",
+      "regulationName": "UK cosmetics framework: Regulation (EC) No 1223/2009 as amended for Great Britain by UK product safety legislation",
+      "applicationDate": "GB uygulaması Brexit sonrası 1 Ocak 2021 itibarıyla ayrı operasyonel akış olarak ele alınır.",
+      "validity": "Great Britain için ayrı bildirim ve UK Responsible Person gerekir; Northern Ireland için AB/NI ayrımı ürün bazında kontrol edilir.",
+      "notification": "GB pazarı için Submit Cosmetic Product Notifications (SCPN) / OPSS bildirimi yapılır.",
+      "requirements": [
+        "UK içinde yerleşik Responsible Person tanımlanır.",
+        "PIF ve güvenlik değerlendirmesi UK Responsible Person tarafından erişilebilir tutulur.",
+        "OPSS/SCPN bildirimi ürün pazara çıkmadan önce tamamlanır.",
+        "Etikette UK Responsible Person bilgisi ve zorunlu bilgiler kontrol edilir.",
+        "Serious undesirable effects bildirimi ve ürün güvenliği izleme akışı kurulmalıdır.",
+        "AB CPNP kaydı UK bildiriminin yerine geçmez."
+      ],
+      "documents": [
+        "UK PIF ve güvenlik değerlendirmesi",
+        "SCPN/OPSS bildirim kaydı",
+        "UK Responsible Person bilgisi",
+        "İngilizce etiket kontrolü",
+        "Analiz, stabilite ve claim destek raporları"
+      ],
+      "countryNotes": [
+        "AB ve UK için aynı formül kullanılabilir; ancak bildirim, sorumlu kişi ve etiket adresi ayrı kurgulanmalıdır.",
+        "İngiltere ihracatında ürün sayfaları, Amazon/retail dokümanları ve etiket claimleri aynı kanıt dilini taşımalıdır."
+      ],
+      "timeline": [
+        ["01", "UK pazar ayrımı", "GB ve Northern Ireland hedefi netleştirilir."],
+        ["02", "UK RP ve etiket", "Sorumlu kişi ve etiket adresi belirlenir."],
+        ["03", "PIF/CPSR uyumu", "Güvenlik dosyası UK erişimine hazırlanır."],
+        ["04", "SCPN bildirimi", "OPSS bildirim kaydı tamamlanır."]
+      ],
+      "sources": [
+        ["GOV.UK cosmetic products guidance", "https://www.gov.uk/guidance/making-cosmetic-products-available-to-consumers-in-great-britain"],
+        ["Search cosmetic product notifications - GOV.UK", "https://search.cosmetic-product-notifications.service.gov.uk/"]
+      ]
+    },
+    {
+      "slug": "turkiye",
+      "name": "Türkiye",
+      "region": "Türkiye",
+      "badge": "ÜTS",
+      "summary": "Türkiye'de kozmetik ürünler TİTCK ve Ürün Takip Sistemi (ÜTS) akışıyla yönetilir. Ürün güvenlik değerlendirmesi, ürün bilgi dosyası, etiket kontrolü, analiz raporları ve bildirim bilgileri aynı dosyada tutarlı olmalıdır.",
+      "authority": "Türkiye İlaç ve Tıbbî Cihaz Kurumu (TİTCK)",
+      "regulationName": "Kozmetik Ürünler Yönetmeliği",
+      "applicationDate": "8 Mayıs 2023 tarihli ve 32184 (Mükerrer) sayılı Resmî Gazete'de yayımlanmıştır; genel yürürlük ve geçiş hükümleri ürün durumuna göre kontrol edilir.",
+      "validity": "Türkiye çerçevesi AB 1223/2009 yaklaşımıyla uyumlu şekilde ürün güvenliği, sorumlu kişi, teknik dosya, etiket ve piyasa gözetimine odaklanır.",
+      "notification": "Ürün ve firma bilgileri ÜTS üzerinden bildirim/kayıt akışına alınır. Bildirim, ürünün güvenli olduğunu tek başına ispatlamaz; dosya ve test kanıtı ile desteklenmelidir.",
+      "requirements": [
+        "Sorumlu kişi/firma ve ürün bilgileri net tanımlanır.",
+        "Ürün Güvenlik Değerlendirmesi ve ürün bilgi dosyası hazırlanır.",
+        "ÜTS ürün bildirimi ve varyant bilgileri doğru girilir.",
+        "Türkçe etiket, kullanım talimatı, uyarılar, INCI ve claimler kontrol edilir.",
+        "Mikrobiyoloji, stabilite, challenge, aktif madde veya performans testleri ürün riskine göre planlanır.",
+        "İstenmeyen etki ve piyasa gözetimi için izlenebilir batch/lot sistemi kurulur."
+      ],
+      "documents": [
+        "Ürün Güvenlik Değerlendirmesi",
+        "Ürün Bilgi Dosyası",
+        "ÜTS bildirim/kayıt bilgileri",
+        "Türkçe etiket kontrol raporu",
+        "Analiz ve stabilite raporları",
+        "SDS/TDS ve hammadde teknik dokümanları"
+      ],
+      "countryNotes": [
+        "Türkiye dosyası ihracat dosyasının temeli olarak da kullanılabilir; ancak CPNP, SCPN, FDA/MoCRA veya diğer ülke kayıtlarının yerine geçmez.",
+        "ÜTS'ye girilen ürün adı, varyant, barkod ve etiket bilgileri teknik dosya ile birebir tutarlı olmalıdır."
+      ],
+      "timeline": [
+        ["01", "Ürün ve formül kontrolü", "INCI, hedef kullanıcı, claim ve riskli içerikler değerlendirilir."],
+        ["02", "Test ve ÜGD", "Ürüne göre analiz planı ve güvenlik değerlendirmesi tamamlanır."],
+        ["03", "Etiket ve ÜTS", "Türkçe etiket ve ÜTS ürün bilgileri eşleştirilir."],
+        ["04", "Pazar sonrası takip", "Batch, şikayet ve istenmeyen etki izleme sistemi kurulur."]
+      ],
+      "sources": [
+        ["TİTCK", "https://www.titck.gov.tr/"],
+        ["Ürün Takip Sistemi (ÜTS)", "https://utsuygulama.saglik.gov.tr/"],
+        ["Resmî Gazete", "https://www.resmigazete.gov.tr/"]
+      ]
+    },
+    {
+      "slug": "amerika-birlesik-devletleri",
+      "name": "Amerika Birleşik Devletleri",
+      "region": "ABD",
+      "badge": "FDA / MoCRA",
+      "summary": "ABD kozmetik pazarı FDA gözetimi ve MoCRA 2022 sonrası daha yapılandırılmış kayıt, listeleme, güvenlik kanıtı ve advers olay yönetimi ister. Güneş koruyucular gibi bazı kategoriler ABD'de kozmetik değil OTC drug mantığıyla değerlendirilebilir.",
+      "authority": "U.S. Food and Drug Administration (FDA)",
+      "regulationName": "Federal Food, Drug, and Cosmetic Act ve Modernization of Cosmetics Regulation Act of 2022 (MoCRA)",
+      "applicationDate": "MoCRA 29 Aralık 2022'de yasalaşmıştır; facility registration ve product listing gibi temel yükümlülükler 2023-2024 uygulama takviminde devreye alınmıştır.",
+      "validity": "ABD'de kozmetik güvenlik kanıtı, ürün listeleme, tesis kaydı, advers event reporting ve etiket uygunluğu birlikte değerlendirilir.",
+      "notification": "Cosmetics Direct üzerinden facility registration ve cosmetic product listing yapılır. Güneş koruyucu ürünler için OTC drug gereklilikleri ayrıca değerlendirilir.",
+      "requirements": [
+        "ABD responsible person/marka sorumluluğu netleştirilir.",
+        "Facility registration ve product listing kapsamı ürün ve üretici rolüne göre değerlendirilir.",
+        "Safety substantiation dosyası hazırlanır; ürünün güvenliği makul bilimsel kanıtla desteklenir.",
+        "Serious adverse event reporting ve kayıt saklama sistemi kurulur.",
+        "Etiket; identity, net quantity, ingredient declaration, warnings ve claim açısından FDA yaklaşımıyla kontrol edilir.",
+        "Sunscreen, anti-acne, dandruff veya therapeutic claim içeren ürünlerde OTC drug sınıflandırması ayrıca incelenir."
+      ],
+      "documents": [
+        "Safety substantiation dosyası",
+        "Facility registration ve product listing kayıtları",
+        "FDA uyumlu etiket kontrolü",
+        "Adverse event prosedürü",
+        "Analiz ve kalite kontrol raporları",
+        "Ürün sınıflandırma notu"
+      ],
+      "countryNotes": [
+        "ABD'de kozmetik claim ile drug claim arasındaki çizgi ticari konumlandırmada çok kritiktir.",
+        "Güneş kremi sayfalarında ABD için OTC drug katmanı özellikle görünür tutulmalıdır."
+      ],
+      "timeline": [
+        ["01", "Sınıflandırma", "Ürün kozmetik mi, drug mı, OTC monograph kapsamına giriyor mu değerlendirilir."],
+        ["02", "MoCRA kapsamı", "Firma, üretici ve ürün listeleme yükümlülükleri belirlenir."],
+        ["03", "Safety substantiation", "Güvenlik kanıtları, test raporları ve etiket uyarıları dosyalanır."],
+        ["04", "FDA kayıt akışı", "Cosmetics Direct ve ilgili FDA kayıt/listeleme adımları tamamlanır."]
+      ],
+      "sources": [
+        ["FDA - MoCRA", "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra"],
+        ["FDA - Registration & Listing of Cosmetic Facilities and Products", "https://www.fda.gov/cosmetics/registration-listing-cosmetic-product-facilities-and-products"],
+        ["FDA - Sunscreen", "https://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun"]
+      ]
+    },
+    {
+      "slug": "suudi-arabistan-saso-sfda",
+      "name": "Suudi Arabistan / SASO-SFDA",
+      "region": "GCC / Suudi Arabistan",
+      "badge": "eCosma",
+      "summary": "Suudi Arabistan kozmetik pazarında SFDA ürün güvenliği, eCosma bildirim/listing ve ithalat uygunluğu belirleyicidir. SASO/SABER veya uygunluk belgeleri ürün kategorisi ve ithalat senaryosuna göre ayrıca gündeme gelebilir.",
+      "authority": "Saudi Food and Drug Authority (SFDA); ithalat uygunluğu tarafında SASO/SABER gereklilikleri ürün bazında kontrol edilir.",
+      "regulationName": "Saudi Cosmetics Regulations, SFDA cosmetic safety requirements ve eCosma ürün bildirim sistemi",
+      "applicationDate": "SFDA kozmetik düzenlemeleri 2015 sonrası eCosma bildirim sistemi ve güncel SFDA kılavuzlarıyla uygulanır.",
+      "validity": "SFDA kozmetik ürün güvenliği, içerik uygunluğu, Arapça etiket ve ithalat/clearance gereklilikleri birlikte değerlendirilir.",
+      "notification": "eCosma üzerinden kozmetik ürün bildirimi/listing yapılır; ithalat clearance ve uygunluk belgeleri ürün senaryosuna göre planlanır.",
+      "requirements": [
+        "SFDA kozmetik sınıflandırması yapılır; medikal/terapötik claimlerden kaçınılır.",
+        "eCosma ürün bilgisi, bileşen ve etiket bilgileri hazırlanır.",
+        "Arapça etiket, uyarılar, kullanım talimatı ve üretici/ithalatçı bilgileri kontrol edilir.",
+        "SFDA restricted/prohibited substance listeleri ve GSO/SFDA güvenlik şartları taranır.",
+        "CoA, SDS, GMP, analiz raporları ve ürün teknik dosyası ithalat dosyasına bağlanır.",
+        "SASO/SABER veya uygunluk değerlendirmesi gerekip gerekmediği GTIP/ürün kategorisine göre ayrıca kontrol edilir."
+      ],
+      "documents": [
+        "eCosma ürün bildirimi/listing bilgileri",
+        "Arapça/İngilizce etiket kontrolü",
+        "CoA, SDS ve formül bilgisi",
+        "GMP ve üretici belgeleri",
+        "Analiz ve güvenlik raporları",
+        "İthalatçı/distribütör belgeleri"
+      ],
+      "countryNotes": [
+        "Suudi Arabistan sayfası özellikle ihracat operasyonu için kullanılmalıdır: sadece teknik dosya değil, ithalat ve clearance belgeleri de akışa alınır.",
+        "SASO adı piyasada sık duyulsa da kozmetik ürün güvenliği ve bildirim tarafında SFDA merkezi rol oynar."
+      ],
+      "timeline": [
+        ["01", "Sınıflandırma", "Ürün kozmetik olarak doğru sınıflandırılır ve claim riski kontrol edilir."],
+        ["02", "eCosma dosyası", "Ürün, bileşen, etiket ve firma bilgileri hazırlanır."],
+        ["03", "Etiket ve uygunluk", "Arapça etiket ve restricted substance kontrolleri tamamlanır."],
+        ["04", "İthalat hazırlığı", "Clearance, CoA, SDS, GMP ve gerekiyorsa SASO/SABER belgeleri operasyon planına alınır."]
+      ],
+      "sources": [
+        ["SFDA - Overview Cosmetics", "https://sfda.gov.sa/en/overview-cosmetics"],
+        ["SFDA - Cosmetic Regulations approval", "https://sfda.gov.sa/en/news/658"],
+        ["SFDA - Guidance of cosmetic product notification", "https://sfda.gov.sa/en/regulations/62871"]
+      ]
+    },
+    {
+      "slug": "misir",
+      "name": "Mısır",
+      "region": "MENA / Mısır",
+      "badge": "EDA / EgyCosm",
+      "summary": "Mısır kozmetik pazarında Egyptian Drug Authority (EDA) kayıt/notification akışı, yerel temsilci, Arapça etiket ve teknik doküman hazırlığı öne çıkar. İthal ürünlerde belge legalizasyonu ve laboratuvar kontrol beklentileri operasyonel takvimi etkileyebilir.",
+      "authority": "Egyptian Drug Authority (EDA)",
+      "regulationName": "EDA cosmetics notification and registration requirements; Regulatory Guide for Cosmetics Notification",
+      "applicationDate": "EDA kozmetik notification kılavuzları ve elektronik platform uygulamaları 2022 sonrası güncel başvuru mantığında yürütülür.",
+      "validity": "Mısır pazarı için ürün notification/registration, yerel temsilci ve ithalat dokümanları ürün bazında doğrulanmalıdır.",
+      "notification": "EgyCosm / EDA elektronik başvuru süreçleri üzerinden ürün notification veya registration akışı yürütülür.",
+      "requirements": [
+        "Ürün kozmetik sınıflandırmasına göre EDA başvuru tipi belirlenir.",
+        "Yerel temsilci/ithalatçı ve başvuru sahibi bilgileri hazırlanır.",
+        "Arapça etiket, ürün adı, kullanım amacı, uyarılar ve içerik listesi kontrol edilir.",
+        "Formül, CoA, SDS, GMP, Free Sale Certificate ve üretici belgeleri başvuru paketine alınır.",
+        "Stabilite, mikrobiyoloji ve ürün güvenliği kanıtları talep edilebilir şekilde düzenlenir.",
+        "Legalizasyon/apostil, ithalat ve numune kontrol gereklilikleri operasyon takvimine eklenir."
+      ],
+      "documents": [
+        "EDA/EgyCosm başvuru bilgileri",
+        "Arapça etiket ve ambalaj dosyası",
+        "Formül, CoA, SDS ve GMP belgeleri",
+        "Free Sale Certificate ve üretici yetki belgeleri",
+        "Analiz, stabilite ve mikrobiyoloji raporları",
+        "Yerel temsilci/ithalatçı evrakları"
+      ],
+      "countryNotes": [
+        "Mısır sürecinde belge formatı ve legalizasyon gereklilikleri başvuru süresini doğrudan etkileyebilir.",
+        "Ürün sayfalarındaki test raporları EDA başvuru paketinde kullanılabilir şekilde isimlendirilmelidir."
+      ],
+      "timeline": [
+        ["01", "Başvuru tipi", "Ürün sınıflandırması ve EDA başvuru yolu belirlenir."],
+        ["02", "Belge paketi", "Etiket, formül, CoA, SDS, GMP ve serbest satış evrakları hazırlanır."],
+        ["03", "Teknik kontrol", "Gerekli analiz ve stabilite kanıtları başvuru dosyasına bağlanır."],
+        ["04", "EDA/EgyCosm", "Elektronik başvuru ve yerel temsilci operasyonu yürütülür."]
+      ],
+      "sources": [
+        ["EDA - Central Administration of Pharmaceutical Products", "https://edaegypt.gov.eg/en/about-us/the-central-administrations-eda/central-administration-of-pharmaceutical-products/"],
+        ["EDA - Regulatory Guide for Cosmetics Notification", "https://www.edaegypt.gov.eg/media/vp4jh100/guide-line-regulatory-guide-for-cosmetics-notification_.pdf"],
+        ["EDA - Cosmetovigilance Guidelines", "https://www.edaegypt.gov.eg/media/3b0dnzxl/eda-cosmetovigilance-guidelines-version-1-1-18-05-2022.pdf"]
+      ]
+    }
+  ]
+}

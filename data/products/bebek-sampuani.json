@@ -1,0 +1,258 @@
+{
+  "slug": "bebek-sampuani",
+  "name": "Bebek Şampuanı",
+  "activeNav": "hizmetler",
+  "productPath": "/urunler/bebek-sampuani/",
+  "testPath": "/testler/bebek-sampuani-mikrobiyoloji-goz-yakmama/",
+  "regulationPath": "/mevzuat/bebek-sampuani-avrupa-uts-cpnp/",
+  "productPage": {
+    "metaTitle": "Bebek Şampuanı Testleri, Güvenlik ve Regülasyon Süreçleri | Unique Analyse",
+    "metaDescription": "Bebek şampuanı için mikrobiyoloji, challenge test, pH, göz yakmama iddiası, stabilite, ÜGD, PIF, ÜTS ve CPNP süreçleri.",
+    "eyebrow": "// ÜRÜN ŞABLONU · BEBEK ŞAMPUANI",
+    "h1": "BEBEK ŞAMPUANI - HASSAS KULLANICI GRUBU İÇİN LABORATUVAR TESTLERİ VE GÜVENLİK DOSYASI",
+    "lead": "Bebek şampuanı, hedef kullanıcı grubunun hassasiyeti nedeniyle yalnız temizleme performansı ile değerlendirilemez. Mikrobiyoloji, koruyucu etkinlik, pH, göz çevresi tolerabilitesi, koku/alergen yükü ve ambalaj güvenliği birlikte okunmalıdır.",
+    "toc": [
+      ["Zorunlu testler", "zorunlu-testler"],
+      ["Kalite kontrol", "kalite-kontrol"],
+      ["Saha uyumluluk", "saha"],
+      ["Belgelendirme", "belgelendirme"],
+      ["Hedef pazar", "pazar"]
+    ],
+    "note": "<b>Uzman notu:</b> “Bebekler için uygundur” ve “göz yakmaz” gibi ifadeler, yalnız pazarlama cümlesi olarak bırakılmamalıdır. Formül güvenliği, pH aralığı, irritasyon riski, mikrobiyolojik güvenlik ve kullanım senaryosu aynı dosyada doğrulanmalıdır.",
+    "sections": [
+      {
+        "id": "zorunlu-testler",
+        "title": "Bebek şampuanı için zorunlu ve kritik testler",
+        "paragraphs": [
+          "Bebek şampuanı su bazlı ve yüzey aktif madde içeren bir ürün olduğu için mikrobiyolojik güvenlik ve koruyucu sistem performansı kritik önemdedir. Ürün bebek cildi ve göz çevresiyle temas edebileceğinden tolerabilite ve pH kontrolü de test planının merkezinde yer alır."
+        ],
+        "cards": [
+          ["01", "Mikrobiyolojik kalite", "Toplam canlı yük, maya/küf ve istenmeyen mikroorganizma riski ürün güvenliği açısından değerlendirilir."],
+          ["02", "Koruyucu etkinlik", "Challenge test ile koruyucu sistemin kullanım süresi boyunca kontaminasyona karşı yeterli olup olmadığı incelenir."],
+          ["03", "pH ve fizikokimya", "pH, viskozite, görünüm, koku, renk ve köpük yapısı batch kalitesi ve tolerabilite için izlenir."],
+          ["04", "Göz yakmama iddiası", "Bu iddia pH tek başına yeterli olmayacak şekilde, formül ve uygun tolerabilite/göz çevresi değerlendirme stratejisiyle desteklenmelidir."]
+        ]
+      },
+      {
+        "id": "kalite-kontrol",
+        "title": "Kalite kontrol adımları",
+        "paragraphs": [
+          "Bebek şampuanında kalite kontrol, hammadde seçimiyle başlar. Yüzey aktif madde sistemi, parfüm/alergen yükü, koruyucu sistemi ve ambalaj uyumu birlikte değerlendirilmelidir."
+        ],
+        "list": [
+          "<b>Hammadde kabulü:</b> Surfaktan, koruyucu, koku ve yardımcı hammaddelerin CoA/SDS/TDS bilgileri kontrol edilir.",
+          "<b>Formül hassasiyeti:</b> Bebek ürünlerinde parfüm, alerjen ve irritasyon potansiyeli daha dikkatli değerlendirilir.",
+          "<b>Batch kontrolü:</b> pH, viskozite, görünüm, koku, renk, dolum ağırlığı ve ambalaj sızdırmazlığı izlenir.",
+          "<b>Test bağlantısı:</b> Detaylı metot akışı için <a href=\"/testler/bebek-sampuani-mikrobiyoloji-goz-yakmama/\">Bebek şampuanı mikrobiyoloji ve göz yakmama test sayfasını</a> inceleyebilirsiniz."
+        ]
+      },
+      {
+        "id": "saha",
+        "title": "Raf ömrü ve saha uyumluluk",
+        "paragraphs": [
+          "Bebek şampuanı banyo ortamında, ıslak elle ve kapak/şişe ağzı kontaminasyonuna açık şekilde kullanılabilir. Bu nedenle ambalaj, kullanım alışkanlığı ve koruyucu sistem performansı birlikte değerlendirilmelidir."
+        ],
+        "cardsClass": "two",
+        "cards": [
+          ["AMBALAJ", "Kapak ve şişe ağzı riski", "Pompa, flip-top veya kapak yapısı mikrobiyal risk ve kullanım kolaylığı açısından değerlendirilir."],
+          ["SAHA", "Hassas kullanıcı senaryosu", "Bebek cildi, göz çevresi teması ve aile kullanım alışkanlıkları claim dosyasında dikkate alınır."]
+        ]
+      },
+      {
+        "id": "belgelendirme",
+        "title": "Belgelendirme ve kayıt",
+        "paragraphs": [
+          "Test sonuçları Ürün Güvenlik Değerlendirme Raporu, PIF, etiket kontrolü ve ürün bildirim hazırlığına bağlanır. Bebek ürünlerinde güvenlik değerlendiricisinin hedef kullanıcı grubunu açıkça dikkate alması beklenir.",
+          "Avrupa ve Türkiye bildirim akışı için <a href=\"/mevzuat/bebek-sampuani-avrupa-uts-cpnp/\">Bebek şampuanı CPNP ve ÜTS mevzuat sayfasına</a> geçebilirsiniz."
+        ]
+      },
+      {
+        "id": "pazar",
+        "title": "Hedef pazar seçimi: ÜTS, CPNP, SCPN ve FDA/MoCRA",
+        "paragraphs": [
+          "Türkiye için ÜTS, Avrupa için CPNP/PIF/CPSR, İngiltere için SCPN ve ABD için FDA/MoCRA süreçleri ürün bilgisi, sorumlu kişi/firma ve güvenlik dosyası üzerinden yönetilir. Bebek ürünü claim dili her pazarda daha dikkatli kurulmalıdır."
+        ]
+      }
+    ],
+    "links": [
+      ["Bebek şampuanı test metodu nasıl kurulur? ↗", "/testler/bebek-sampuani-mikrobiyoloji-goz-yakmama/"],
+      ["Bebek şampuanı için CPNP/ÜTS gereklilikleri ↗", "/mevzuat/bebek-sampuani-avrupa-uts-cpnp/"]
+    ],
+    "cta": {
+      "eyebrow": "BEBEK ÜRÜNÜ ÖN DEĞERLENDİRME",
+      "title": "Bebek şampuanınızı hassas kullanıcı güvenliğiyle birlikte değerlendirelim.",
+      "body": "Formül, etiket, hedef pazar ve mevcut testlerinizi paylaşın. Unique Analyse ekibi bebek şampuanı için analiz, tolerabilite, mikrobiyoloji ve regülasyon yol haritasını çıkarsın.",
+      "button": "Bebek şampuanı test planı iste ↗",
+      "href": "/iletisim/"
+    }
+  },
+  "testPage": {
+    "metaTitle": "Bebek Şampuanı Mikrobiyoloji, Challenge ve Göz Yakmama Testleri | Unique Analyse",
+    "metaDescription": "Bebek şampuanı için mikrobiyolojik analiz, challenge test, pH, fizikokimyasal kontrol ve göz yakmama iddiası test yaklaşımı.",
+    "eyebrow": "// TEST ŞABLONU · BEBEK ŞAMPUANI",
+    "h1": "BEBEK ŞAMPUANI MİKROBİYOLOJİ, CHALLENGE VE GÖZ YAKMAMA DEĞERLENDİRMESİ NASIL YAPILIR?",
+    "lead": "Bebek şampuanı analizinde amaç yalnız mikrobiyolojik uygunluğu göstermek değildir. Ürünün hassas kullanıcı grubunda güvenli kullanımını, formül tolerabilitesini ve iddia dilini destekleyen çok katmanlı bir test yaklaşımı gerekir.",
+    "tocTitle": "Test akışı",
+    "toc": [
+      ["Metot ve cihazlar", "metot"],
+      ["Test prosedürü", "prosedur"],
+      ["Tolerabilite", "tolerabilite"],
+      ["Raporlama", "raporlama"],
+      ["Otorite mesajı", "otorite"]
+    ],
+    "note": "<b>Bu sayfa neden kritik?</b> “Göz yakmaz” iddiası yalnız pH ölçümüyle savunulmamalıdır. Ürün matriksi, surfaktan sistemi, koruyucu sistemi ve uygun tolerabilite/göz çevresi değerlendirme stratejisi birlikte ele alınmalıdır.",
+    "sections": [
+      {
+        "id": "metot",
+        "title": "Metot ve cihazlar",
+        "paragraphs": [
+          "Bebek şampuanı testlerinde mikrobiyolojik ekim, inkübasyon, koloni sayımı, fizikokimyasal ölçüm ve formül tolerabilitesi bir arada değerlendirilir. Laboratuvar akışı numune kabulünden rapor yorumuna kadar izlenebilir şekilde kurgulanır."
+        ],
+        "cards": [
+          ["MİKROBİYOLOJİ", "Mikrobiyal yük analizi", "Toplam canlı yük, maya/küf ve istenmeyen mikroorganizma kontrolleri ürün güvenliği için yürütülür."],
+          ["CHALLENGE", "Koruyucu etkinlik", "Koruyucu sistemin kontaminasyona karşı performansı kontrollü test yaklaşımıyla değerlendirilir."],
+          ["pH", "Fizikokimyasal ölçüm", "pH, viskozite, görünüm ve koku batch kalitesi ve hassas kullanım açısından izlenir."],
+          ["TOLERABİLİTE", "Göz çevresi iddiası", "Göz yakmama veya hassas kullanım iddiası, formül ve uygun değerlendirme protokolüyle desteklenir."]
+        ]
+      },
+      {
+        "id": "prosedur",
+        "title": "Test prosedürü",
+        "orderedList": [
+          "<b>Numune kabulü:</b> Lot, ambalaj tipi, üretim tarihi ve saklama koşulları kayıt altına alınır.",
+          "<b>Mikrobiyoloji hazırlığı:</b> Numune uygun seyreltme ve nötralizasyon yaklaşımıyla çalışılır.",
+          "<b>Challenge planı:</b> Koruyucu sistem performansı ürün matriksine göre değerlendirilir.",
+          "<b>Fizikokimya:</b> pH, viskozite, görünüm, koku ve renk kontrolleri batch kartına bağlanır.",
+          "<b>İddia değerlendirmesi:</b> “Göz yakmaz” veya “hassas ciltlere uygun” iddiası için gerekli ek kanıtlar belirlenir.",
+          "<b>Raporlama:</b> Sonuçlar uygunluk, risk ve önerilen aksiyon diliyle teslim edilir."
+        ]
+      },
+      {
+        "id": "tolerabilite",
+        "title": "Tolerabilite ve saha gözlemi",
+        "paragraphs": [
+          "Bebek ürünlerinde saha veya kontrollü kullanım çalışmaları ürünün gerçek kullanım senaryosunu anlamak için değerlidir. Bu çalışmalar etik ve bilimsel çerçeveyle planlanmalı; claim dili abartılı değil, kanıtla uyumlu kurulmalıdır."
+        ],
+        "cardsClass": "two",
+        "cards": [
+          ["KULLANIM", "Banyo senaryosu", "Ürünün suyla temas, durulama ve göz çevresi teması gibi kullanım koşulları dikkate alınır."],
+          ["CLAIM", "Hassas kullanım beyanı", "Bebekler için uygunluk iddiası güvenlik değerlendirmesi ve etiket diliyle uyumlu olmalıdır."]
+        ]
+      },
+      {
+        "id": "raporlama",
+        "title": "Raporlama",
+        "paragraphs": [
+          "Test raporu, <a href=\"/urunler/bebek-sampuani/\">bebek şampuanı ürün dosyasında</a> güvenlik değerlendirmesi, etiket kontrolü ve hedef pazar bildirim hazırlığına bağlanır."
+        ]
+      },
+      {
+        "id": "otorite",
+        "title": "Otorite mesajı: bebek ürününde hata payı düşüktür",
+        "paragraphs": [
+          "Bebek şampuanı gibi hassas kullanıcı ürünlerinde laboratuvarın görevi yalnız sonuç üretmek değildir; hangi sonucun risk, hangi sonucun kabul edilebilir varyasyon olduğunu doğru yorumlamaktır.",
+          "Avrupa ve Türkiye regülasyon dosyası için <a href=\"/mevzuat/bebek-sampuani-avrupa-uts-cpnp/\">bebek şampuanı mevzuat sayfasına</a> geçebilirsiniz."
+        ]
+      }
+    ],
+    "links": [
+      ["Bebek şampuanı ürün test paketini incele ↗", "/urunler/bebek-sampuani/"],
+      ["CPNP/ÜTS mevzuat gereklilikleri ↗", "/mevzuat/bebek-sampuani-avrupa-uts-cpnp/"]
+    ],
+    "cta": {
+      "eyebrow": "LAB ANALİZ TALEBİ",
+      "title": "Bebek şampuanı test kapsamını birlikte planlayalım.",
+      "body": "Formül, iddia ve hedef pazar bilgilerinizi paylaşın. Mikrobiyoloji, challenge, pH ve tolerabilite kanıt yolunu netleştirelim.",
+      "button": "Bebek şampuanı analiz planı iste ↗",
+      "href": "/iletisim/"
+    }
+  },
+  "regulationPage": {
+    "metaTitle": "Bebek Şampuanı CPNP ve ÜTS Mevzuat Gereklilikleri | Unique Analyse",
+    "metaDescription": "Bebek şampuanı için Avrupa CPNP, Türkiye ÜTS, PIF, CPSR, etiket, hassas kullanıcı claim ve güvenlik dosyası gereklilikleri.",
+    "activeNav": "mevzuat",
+    "eyebrow": "// MEVZUAT ŞABLONU · BEBEK ŞAMPUANI",
+    "h1": "BEBEK ŞAMPUANI İÇİN AVRUPA (CPNP) VE TÜRKİYE (ÜTS) KOZMETİK MEVZUATI",
+    "lead": "Bebek şampuanı Avrupa ve Türkiye pazarında hassas kullanıcı grubu nedeniyle daha dikkatli güvenlik değerlendirmesi, etiket dili ve claim gerekçelendirmesi gerektirir.",
+    "tocTitle": "Mevzuat akışı",
+    "toc": [
+      ["Ülke bazlı gereklilik", "ulke"],
+      ["PIF dosyası", "pif"],
+      ["Etiket ve claim", "etiket"],
+      ["Operasyonel süreç", "timeline"],
+      ["İlk evraklar", "evrak"]
+    ],
+    "note": "<b>Regülasyon uyarısı:</b> Bebek ürünlerinde güvenlik marjı, kullanım senaryosu ve claim dili özellikle önemlidir. “Bebekler için uygundur”, “hassas ciltlere uygun” ve “göz yakmaz” gibi ifadeler teknik dosya ile desteklenmelidir.",
+    "sections": [
+      {
+        "id": "ulke",
+        "title": "Ülke bazlı yönetmelik: Türkiye ve Avrupa",
+        "compliance": [
+          ["Avrupa Birliği", "Regulation (EC) No 1223/2009 kapsamında CPSR, PIF, sorumlu kişi ve CPNP bildirimi gerekir."],
+          ["Türkiye", "Türk Kozmetik Yönetmeliği ve ÜTS bildirimi kapsamında ürün güvenliği, firma, etiket ve ürün bilgileri hazırlanır."],
+          ["Hassas kullanıcı", "Bebek ürünlerinde maruziyet, kullanım sıklığı ve hedef kullanıcı güvenlik değerlendirmesinde özel olarak ele alınmalıdır."],
+          ["Claim kontrolü", "Göz yakmama ve hassas kullanım iddiaları ürün testleri, formül değerlendirmesi ve etiket diliyle tutarlı olmalıdır."]
+        ],
+        "paragraphs": [
+          "Bildirim öncesinde <a href=\"/urunler/bebek-sampuani/\">bebek şampuanı zorunlu testleri</a> ve gerekli mikrobiyoloji/challenge değerlendirmeleri tamamlanmalıdır."
+        ]
+      },
+      {
+        "id": "pif",
+        "title": "PIF ve CPSR dosyası isterleri",
+        "paragraphs": [
+          "Bebek şampuanı için PIF dosyası formül, hammadde belgeleri, mikrobiyoloji, stabilite, challenge, etiket, claim gerekçesi ve güvenlik değerlendirmesini birlikte içermelidir."
+        ],
+        "list": [
+          "Güncel formül ve INCI listesi",
+          "Surfaktan, koruyucu, parfüm ve yardımcı hammaddelerin CoA/SDS/TDS belgeleri",
+          "Mikrobiyoloji ve challenge test sonuçları",
+          "pH, viskozite, görünüm ve stabilite verileri",
+          "Bebek/hassas cilt claim gerekçesi",
+          "Etiket, kullanım talimatı ve uyarı metinleri"
+        ]
+      },
+      {
+        "id": "etiket",
+        "title": "Etiket ve claim dili",
+        "paragraphs": [
+          "Bebek şampuanında etiket dili sade, açık ve kanıtla uyumlu olmalıdır. “Göz yakmaz” veya “hassas ciltlere uygundur” iddiası, uygun test ve değerlendirme stratejisi olmadan güçlü bir satış ifadesi olarak kullanılmamalıdır.",
+          "Test yaklaşımı için <a href=\"/testler/bebek-sampuani-mikrobiyoloji-goz-yakmama/\">bebek şampuanı test sayfasını</a> inceleyebilirsiniz."
+        ]
+      },
+      {
+        "id": "timeline",
+        "title": "Operasyonel süreç ve tahmini zaman planı",
+        "timeline": [
+          ["Hafta 0", "Doküman kabulü", "Formül, etiket, hedef pazar, hammadde ve ambalaj bilgileri alınır."],
+          ["Hafta 1-2", "Ön güvenlik okuması", "Bebek ürünü claimleri, pH, parfüm/alergen ve eksik testler değerlendirilir."],
+          ["Hafta 2-8+", "Analiz ve challenge", "Mikrobiyoloji, challenge, stabilite ve tolerabilite kanıtları planlanır."],
+          ["Dosya kapanışı", "PIF/ÜTS/CPNP", "Analiz sonuçları güvenlik dosyası ve bildirim hazırlığına bağlanır."]
+        ]
+      },
+      {
+        "id": "evrak",
+        "title": "Müşteriden beklenen ilk evraklar",
+        "list": [
+          "Formül ve hedef kullanıcı bilgisi",
+          "Etiket/ambalaj taslağı",
+          "Hammadde CoA/SDS/TDS belgeleri",
+          "Ambalaj tipi ve kullanım şekli",
+          "Mevcut mikrobiyoloji, stabilite veya challenge raporları",
+          "Hedef pazar bilgisi: Türkiye, AB, İngiltere veya ABD"
+        ]
+      }
+    ],
+    "links": [
+      ["Bebek şampuanı ürün test planına geç ↗", "/urunler/bebek-sampuani/"],
+      ["Mikrobiyoloji ve göz yakmama test yaklaşımı ↗", "/testler/bebek-sampuani-mikrobiyoloji-goz-yakmama/"]
+    ],
+    "cta": {
+      "eyebrow": "BEBEK ÜRÜNÜ DOSYA KONTROLÜ",
+      "title": "Bebek şampuanı dosyanız ÜTS ve CPNP için hazır mı?",
+      "body": "Formül, etiket ve mevcut testlerinizi paylaşın. Unique Analyse ekibi bebek şampuanı için güvenlik ve bildirim hazırlık yol haritasını çıkarsın.",
+      "button": "Mevzuat ön değerlendirmesi iste ↗",
+      "href": "/iletisim/"
+    }
+  }
+}
