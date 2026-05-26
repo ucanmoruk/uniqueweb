@@ -57,3 +57,22 @@ if (testLibrary) {
     });
   }
 }
+
+const verificationForm = document.querySelector("[data-verification-form]");
+
+if (verificationForm) {
+  const params = new URLSearchParams(window.location.search);
+  const reportId = params.get("rapor") || "UA-2026-0526-0142";
+  const input = verificationForm.querySelector("[data-verification-input]");
+  const output = document.querySelector("[data-report-id]");
+  const message = document.querySelector("[data-verification-message]");
+
+  input.value = reportId;
+  output.textContent = reportId;
+
+  verificationForm.addEventListener("submit", (event) => {
+    event.preventDefault();
+    output.textContent = input.value.trim() || reportId;
+    message.textContent = "Örnek doğrulama kaydı güncellendi.";
+  });
+}

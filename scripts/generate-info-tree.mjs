@@ -11,6 +11,7 @@ const navItems = [
   ["testler", "Testler", "/testler/"],
   ["mevzuat", "Mevzuat", "/mevzuat/"],
   ["raporlar", "Raporlar", "/raporlar/"],
+  ["dogrulama", "Doğrulama", "/dogrulama/"],
   ["iletisim", "İletişim", "/iletisim/"]
 ];
 

@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Unique Analyse rapor ve belge doğrulama ekranı. QR kod ile okutulan analiz raporlarının belge kimliği, numune bilgisi, test özeti ve doğrulama durumu görüntülenir." />
+    <title>Rapor / Belge Doğrulama | Unique Analyse</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="/" aria-label="Unique Analyse ana sayfa"><img src="/assets/unique-analyse-logo.png" alt="Unique Analyse" /></a>
+      <nav class="nav" aria-label="Ana menü">
+        <a href="/hakkimizda/">Hakkımızda</a>
+        <a href="/hizmetler/">Hizmetler</a>
+        <a href="/testler/">Testler</a>
+        <a href="/mevzuat/">Mevzuat</a>
+        <a href="/raporlar/">Raporlar</a>
+        <a class="active" href="/dogrulama/">Doğrulama</a>
+        <a href="/iletisim/">İletişim</a>
+      </nav>
+      <a class="header-action" href="/iletisim/">Teklif al ↗</a>
+    </header>
+
+    <main>
+      <section class="page-hero verification-hero">
+        <p class="eyebrow">// RAPOR / BELGE DOĞRULAMA</p>
+        <h1>QR İLE OKUTULAN RAPORUN GERÇEKLİĞİNİ VE TEKNİK ÖZETİNİ GÖRÜNTÜLEYİN.</h1>
+        <p>Bu ekran, Unique Analyse tarafından oluşturulan analiz raporu, ürün güvenlik raporu, saha raporu veya etiket kontrol belgesinin doğrulama kaydını gösterir.</p>
+      </section>
+
+      <section class="section verification-overview">
+        <div class="verification-grid">
+          <article class="verification-status-panel">
+            <div class="status-row">
+              <span class="status-dot"></span>
+              <b>Belge doğrulandı</b>
+            </div>
+            <p>Bu örnek kayıt, rapor üzerindeki QR koddan açılan doğrulama ekranı görünümünü temsil eder.</p>
+            <dl class="verification-key">
+              <div><dt>Rapor No</dt><dd data-report-id>UA-2026-0526-0142</dd></div>
+              <div><dt>Doğrulama Hash</dt><dd>9F4A-72C1-88D0</dd></div>
+              <div><dt>Yayın Tarihi</dt><dd>26.05.2026</dd></div>
+              <div><dt>Durum</dt><dd>Geçerli ve yayınlanmış</dd></div>
+            </dl>
+          </article>
+
+          <article class="verification-card">
+            <div class="qr-preview" aria-hidden="true">
+              <span></span><span></span><span></span><span></span>
+            </div>
+            <form class="verification-form" data-verification-form>
+              <label>
+                <span>Belge / rapor kodu</span>
+                <input type="text" value="UA-2026-0526-0142" data-verification-input />
+              </label>
+              <button type="submit">Sorgula</button>
+            </form>
+            <p data-verification-message>Örnek doğrulama kaydı görüntüleniyor.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section verification-detail">
+        <div class="section-intro wide">
+          <p class="eyebrow">BELGE ÖZETİ</p>
+          <h2>Raporun görünen bilgileri.</h2>
+          <p>QR doğrulama ekranında müşterinin görmesi gereken temel belge bilgileri, test özeti, numune kimliği ve dijital bütünlük verileri birlikte yer alır.</p>
+        </div>
+
+        <div class="verification-summary">
+          <div><b>Belge tipi</b><span>Analiz Raporu</span></div>
+          <div><b>Ürün adı</b><span>Retinol Serum - Gece Bakım Serumu</span></div>
+          <div><b>Müşteri</b><span>Örnek Kozmetik A.Ş.</span></div>
+          <div><b>Numune kodu</b><span>UA-SPL-2026-1187</span></div>
+          <div><b>Parti / lot</b><span>RS-2605-A</span></div>
+          <div><b>Rapor dili</b><span>Türkçe / İngilizce özet</span></div>
+        </div>
+      </section>
+
+      <section class="section services verification-tests">
+        <div class="section-intro wide">
+          <p class="eyebrow">ANALİZ KAPSAMI</p>
+          <h2>Rapora bağlı test ve değerlendirme özeti.</h2>
+          <p>Bu alan ileride gerçek rapor verilerinden beslenecek. Şimdilik QR doğrulama sayfasında rapor kapsamının nasıl okunacağını gösteren örnek kayıtlar kullanıldı.</p>
+        </div>
+
+        <div class="verification-table" role="table" aria-label="Doğrulanan rapor test özeti">
+          <div class="verification-table-head" role="row">
+            <span>Test</span>
+            <span>Metot</span>
+            <span>Sonuç</span>
+            <span>Durum</span>
+          </div>
+          <article role="row">
+            <b>Mikrobiyolojik kalite</b>
+            <span>ISO 17516 yaklaşımı</span>
+            <span>Limit içinde</span>
+            <em>Uygun</em>
+          </article>
+          <article role="row">
+            <b>Retinol miktar tayini</b>
+            <span>HPLC-UV</span>
+            <span>Spesifikasyon ile uyumlu</span>
+            <em>Uygun</em>
+          </article>
+          <article role="row">
+            <b>Hızlandırılmış stabilite</b>
+            <span>40°C / 75% RH izleme</span>
+            <span>Kritik sapma yok</span>
+            <em>Takip tamamlandı</em>
+          </article>
+          <article role="row">
+            <b>Etiket ve claim kontrolü</b>
+            <span>ÜTS / CPNP ön kontrol</span>
+            <span>Revizyon notu yok</span>
+            <em>Yayına hazır</em>
+          </article>
+        </div>
+      </section>
+
+      <section class="section verification-integrity">
+        <div>
+          <p class="eyebrow">DİJİTAL BÜTÜNLÜK</p>
+          <h2>Belge kopyası ile doğrulama ekranı aynı bilgileri göstermelidir.</h2>
+        </div>
+        <div class="integrity-list">
+          <article><span>01</span><b>Rapor numarası</b><p>PDF üzerindeki rapor numarası ile doğrulama ekranındaki kayıt birebir aynı olmalıdır.</p></article>
+          <article><span>02</span><b>Numune ve lot</b><p>Numune kodu, ürün adı ve parti bilgisi farklıysa belge doğrulanmış kabul edilmemelidir.</p></article>
+          <article><span>03</span><b>Yayın durumu</b><p>İptal edilmiş, revize edilmiş veya süresi geçmiş belgeler ayrı durum etiketiyle gösterilecektir.</p></article>
+          <article><span>04</span><b>Kurumsal temas</b><p>Şüpheli belge, ekran görüntüsü veya PDF kopyası Unique Analyse ekibiyle paylaşılmalıdır.</p></article>
+        </div>
+      </section>
+
+      <section class="section template-cta verification-cta">
+        <p class="eyebrow">BELGE KONTROLÜ</p>
+        <h2>Bu sayfa gerçek doğrulama altyapısına bağlanmaya hazır.</h2>
+        <p>Sonraki adımda her rapor için benzersiz doğrulama kodu, QR URL, belge durumu, revizyon geçmişi ve rapor dosyası bağlantısı sisteme bağlanabilir.</p>
+        <a class="button primary" href="/raporlar/">Rapor türlerini incele ↗</a>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <img src="/assets/unique-analyse-logo.png" alt="Unique Analyse" />
+      <p>ISO/IEC 17025 akredite analiz laboratuvarı · Kozmetik, deterjan, ilaç ve hammadde sektörleri</p>
+      <span>© 2026 Unique Analyse</span>
+    </footer>
+    <script src="/script.js"></script>
+  </body>
+</html>
