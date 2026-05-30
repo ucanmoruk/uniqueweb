@@ -913,7 +913,7 @@ h1 {
 .test-meta div {
   padding: 12px;
   border: 1px solid rgba(5, 5, 5, 0.1);
-  background: rgba(238, 233, 220, 0.72);
+  background: #f3f3f3;
 }
 
 .test-meta dt {
@@ -1020,7 +1020,7 @@ h1 {
 }
 
 .verification-overview {
-  background: #eee9dc;
+  background: #f7f7f7;
 }
 
 .verification-grid {
@@ -1077,7 +1077,7 @@ h1 {
 .verification-summary div {
   padding: 16px;
   border: 1px solid rgba(5, 5, 5, 0.1);
-  background: rgba(238, 233, 220, 0.8);
+  background: #f3f3f3;
 }
 
 .verification-key dt,
@@ -1105,7 +1105,7 @@ h1 {
   background:
     linear-gradient(90deg, #080808 14px, transparent 14px) 0 0 / 42px 42px,
     linear-gradient(#080808 14px, transparent 14px) 0 0 / 42px 42px,
-    #f6f3eb;
+    #ffffff;
   border: 12px solid #080808;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
@@ -1115,7 +1115,7 @@ h1 {
 .qr-preview span {
   display: block;
   background: #080808;
-  border: 10px solid #f6f3eb;
+  border: 10px solid #ffffff;
   box-shadow: inset 0 0 0 10px #080808;
 }
 
@@ -1171,7 +1171,7 @@ h1 {
 }
 
 .verification-tests {
-  background: #ebe7dc;
+  background: #f5f5f5;
 }
 
 .verification-table {
@@ -1221,7 +1221,7 @@ h1 {
   display: grid;
   grid-template-columns: minmax(0, 0.72fr) minmax(320px, 1fr);
   gap: clamp(28px, 5vw, 64px);
-  background: #f6f3eb;
+  background: #ffffff;
 }
 
 .integrity-list {
