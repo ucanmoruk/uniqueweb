@@ -67,7 +67,7 @@ ${indent(main, 6)}
     </main>
 
 ${indent(footer(), 4)}
-    <script src="/script.js"></script>
+    <script src="/script.js?v=3"></script>
   </body>
 </html>`;
 

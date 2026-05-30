@@ -19,8 +19,9 @@ if (form) {
 const header = document.querySelector(".site-header");
 
 window.addEventListener("scroll", () => {
-  const alpha = window.scrollY > 20 ? 0.96 : 0.9;
-  header.style.background = `rgba(246, 243, 235, ${alpha})`;
+  const scrolled = window.scrollY > 20;
+  header.style.background = "#ffffff";
+  header.style.boxShadow = scrolled ? "0 1px 0 rgba(5, 5, 5, 0.08)" : "none";
 });
 
 const testLibrary = document.querySelector("[data-test-library]");
