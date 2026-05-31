@@ -43,6 +43,8 @@
     {
       "slug": "1-month-accelerated-stability-and-compatibility",
       "name": "1 Month Accelerated Stability and Compatibility",
+      "nameTr": "1 Aylık Hızlandırılmış Stabilite ve Uyumluluk Testi",
+      "accredited": false,
       "category": "stabilite",
       "categoryLabel": "Stabilite ve raf ömrü",
       "methods": [
@@ -56,6 +58,8 @@
     {
       "slug": "1-4-dioxane",
       "name": "1,4-Dioxane",
+      "nameTr": "1,4-Dioksan Analizi",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -69,6 +73,8 @@
     {
       "slug": "26-allergens-analysis-by-gc-ms",
       "name": "26 Allergens Analysis by GC/MS",
+      "nameTr": "26 Alerjen Analizi (GC/MS)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -82,6 +88,8 @@
     {
       "slug": "3-month-accelerated-stability-and-compatibility",
       "name": "3 Month Accelerated Stability and Compatibility",
+      "nameTr": "3 Aylık Hızlandırılmış Stabilite ve Uyumluluk Testi",
+      "accredited": false,
       "category": "stabilite",
       "categoryLabel": "Stabilite ve raf ömrü",
       "methods": [
@@ -95,6 +103,8 @@
     {
       "slug": "50-subject-hript-testing-normal-skin",
       "name": "50 Subject HRIPT Testing – Normal Skin",
+      "nameTr": "50 Denekli HRIPT Testi – Normal Cilt",
+      "accredited": false,
       "category": "klinik-saha",
       "categoryLabel": "Klinik, saha ve kullanım çalışmaları",
       "methods": [
@@ -108,6 +118,8 @@
     {
       "slug": "50-subject-hript-testing-sensitive-skin",
       "name": "50 Subject HRIPT Testing – Sensitive Skin",
+      "nameTr": "50 Denekli HRIPT Testi – Hassas Cilt",
+      "accredited": false,
       "category": "klinik-saha",
       "categoryLabel": "Klinik, saha ve kullanım çalışmaları",
       "methods": [
@@ -121,6 +133,8 @@
     {
       "slug": "6-month-accelerated-stability-and-compatibility",
       "name": "6 Month Accelerated Stability and Compatibility",
+      "nameTr": "6 Aylık Hızlandırılmış Stabilite ve Uyumluluk Testi",
+      "accredited": false,
       "category": "stabilite",
       "categoryLabel": "Stabilite ve raf ömrü",
       "methods": [
@@ -134,6 +148,8 @@
     {
       "slug": "acrylamide-testing",
       "name": "Acrylamide Testing",
+      "nameTr": "Akrilamid Analizi",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -148,6 +164,8 @@
     {
       "slug": "adsorbable-organic-fluorine-aof-testing-epa-method-1621",
       "name": "Adsorbable Organic Fluorine (AOF) Testing – EPA Method 1621",
+      "nameTr": "Adsorbe Edilebilir Organik Flor (AOF) Analizi – EPA Metot 1621",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -161,6 +179,8 @@
     {
       "slug": "aerobic-biodegradability-testing-oecd-301b-co-evolution-test",
       "name": "Aerobic Biodegradability Testing (OECD 301B – CO₂ Evolution Test)",
+      "nameTr": "Aerobik Biyobozunurluk Testi (OECD 301B – CO₂ Salınım Testi)",
+      "accredited": false,
       "category": "biyobozunurluk",
       "categoryLabel": "Biyobozunurluk",
       "methods": [
@@ -174,6 +194,8 @@
     {
       "slug": "alcohol-content-testing",
       "name": "Alcohol Content Testing",
+      "nameTr": "Alkol Miktarı Tayini",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -187,6 +209,8 @@
     {
       "slug": "amazon-compliance-smart-screening-panel",
       "name": "Amazon Compliance Smart Screening Panel",
+      "nameTr": "Amazon Uyumluluk Akıllı Tarama Paneli",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -200,6 +224,8 @@
     {
       "slug": "anaerobic-biodegradability-testing-oecd-311",
       "name": "Anaerobic Biodegradability Testing (OECD 311)",
+      "nameTr": "Anaerobik Biyobozunurluk Testi (OECD 311)",
+      "accredited": false,
       "category": "biyobozunurluk",
       "categoryLabel": "Biyobozunurluk",
       "methods": [
@@ -213,6 +239,8 @@
     {
       "slug": "asbestos-analysis-by-plm",
       "name": "Asbestos Analysis by PLM",
+      "nameTr": "Asbest Analizi (PLM)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -227,6 +255,8 @@
     {
       "slug": "asbestos-analysis-by-tem",
       "name": "Asbestos Analysis by TEM",
+      "nameTr": "Asbest Analizi (TEM)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -241,6 +271,8 @@
     {
       "slug": "astm-d820-total-phosphorus",
       "name": "ASTM D820 – Total Phosphorus",
+      "nameTr": "ASTM D820 – Toplam Fosfor",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -254,6 +286,8 @@
     {
       "slug": "benzalkonium-chloride-bzk-testing-by-hplc-dad",
       "name": "Benzalkonium Chloride (BZK) Testing by HPLC-DAD",
+      "nameTr": "Benzalkonyum Klorür (BZK) Analizi (HPLC-DAD)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -268,6 +302,8 @@
     {
       "slug": "benzene-testing-by-gc-ms",
       "name": "Benzene Testing by GC-MS",
+      "nameTr": "Benzen Analizi (GC-MS)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -281,6 +317,8 @@
     {
       "slug": "btex-testing-by-hs-gc-ms",
       "name": "BTEX Testing by HS-GC-MS",
+      "nameTr": "BTEX Analizi (HS-GC-MS)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -295,6 +333,8 @@
     {
       "slug": "california-cleaning-product-right-to-know-act-review-sb-258",
       "name": "California Cleaning Product Right to Know Act Review (SB-258)",
+      "nameTr": "California Temizlik Ürünü Bilgi Edinme Yasası İncelemesi (SB-258)",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -308,6 +348,8 @@
     {
       "slug": "california-proposition-65-ingredient-review",
       "name": "California Proposition 65 Ingredient Review",
+      "nameTr": "California Proposition 65 İçerik İncelemesi",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -321,6 +363,8 @@
     {
       "slug": "california-safe-cosmetics-review",
       "name": "California Safe Cosmetics Review",
+      "nameTr": "California Güvenli Kozmetik İncelemesi",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -334,6 +378,8 @@
     {
       "slug": "cocamide-dea",
       "name": "Cocamide DEA",
+      "nameTr": "Kokamid DEA Analizi",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -347,6 +393,8 @@
     {
       "slug": "color-odor-and-appearance-evaluation",
       "name": "Color, Odor and Appearance Evaluation",
+      "nameTr": "Renk, Koku ve Görünüm Değerlendirmesi",
+      "accredited": false,
       "category": "kalite-kontrol",
       "categoryLabel": "Kalite kontrol ve fizikokimyasal testler",
       "methods": [
@@ -360,6 +408,8 @@
     {
       "slug": "consumer-use-test-20-panelists",
       "name": "Consumer Use Test (20 Panelists)",
+      "nameTr": "Tüketici Kullanım Testi (20 Panelist)",
+      "accredited": false,
       "category": "klinik-saha",
       "categoryLabel": "Klinik, saha ve kullanım çalışmaları",
       "methods": [
@@ -373,6 +423,8 @@
     {
       "slug": "diethanolamine-dea-content-testing",
       "name": "Diethanolamine (DEA) Content Testing",
+      "nameTr": "Dietanolamin (DEA) Miktar Tayini",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -386,6 +438,8 @@
     {
       "slug": "differential-scanning-calorimetry-dsc-analysis",
       "name": "Differential Scanning Calorimetry (DSC) Analysis",
+      "nameTr": "Diferansiyel Taramalı Kalorimetri (DSC) Analizi",
+      "accredited": false,
       "category": "kalite-kontrol",
       "categoryLabel": "Kalite kontrol ve fizikokimyasal testler",
       "methods": [
@@ -399,6 +453,8 @@
     {
       "slug": "ethylene-oxide-testing-by-headspace-gc-ms",
       "name": "Ethylene Oxide Testing by Headspace-GC/MS",
+      "nameTr": "Etilen Oksit Analizi (Headspace GC/MS)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -414,6 +470,8 @@
     {
       "slug": "eu-cosmetic-label-review",
       "name": "EU Cosmetic Label Review",
+      "nameTr": "AB Kozmetik Etiket İncelemesi",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -427,6 +485,8 @@
     {
       "slug": "eu-cpnp-registration-service",
       "name": "EU CPNP Registration Service",
+      "nameTr": "AB CPNP Bildirim Hizmeti",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -440,6 +500,8 @@
     {
       "slug": "eu-pif-creation-service",
       "name": "EU PIF Creation Service",
+      "nameTr": "AB PIF (Ürün Bilgi Dosyası) Hazırlama Hizmeti",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -453,6 +515,8 @@
     {
       "slug": "eu-pif-review-service",
       "name": "EU PIF Review Service",
+      "nameTr": "AB PIF İnceleme Hizmeti",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -466,6 +530,8 @@
     {
       "slug": "eu-uk-cosmetic-product-safety-report-cpsr",
       "name": "EU/UK Cosmetic Product Safety Report (CPSR)",
+      "nameTr": "AB/UK Kozmetik Ürün Güvenlik Raporu (CPSR)",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -479,6 +545,8 @@
     {
       "slug": "firepoint-astm-d92",
       "name": "Firepoint – ASTM D92",
+      "nameTr": "Yanma Noktası – ASTM D92",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -492,6 +560,8 @@
     {
       "slug": "flame-extension-and-ignition-distance-testing",
       "name": "Flame Extension and Ignition Distance Testing",
+      "nameTr": "Alev Uzaması ve Tutuşma Mesafesi Testi",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -505,6 +575,8 @@
     {
       "slug": "flame-extension-testing-do-30-canada",
       "name": "Flame Extension Testing (DO-30, Canada)",
+      "nameTr": "Alev Uzaması Testi (DO-30, Kanada)",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -518,6 +590,8 @@
     {
       "slug": "flash-and-fire-point-astm-d92",
       "name": "Flash and Fire Point – ASTM D92",
+      "nameTr": "Parlama ve Yanma Noktası – ASTM D92",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -531,6 +605,8 @@
     {
       "slug": "flash-and-fire-point-testing-astm-d1310",
       "name": "Flash and Fire Point Testing – ASTM D1310",
+      "nameTr": "Parlama ve Yanma Noktası Testi – ASTM D1310",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -544,6 +620,8 @@
     {
       "slug": "flash-point-testing-astm-d3828",
       "name": "Flash Point Testing – ASTM D3828",
+      "nameTr": "Parlama Noktası Testi – ASTM D3828",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -557,6 +635,8 @@
     {
       "slug": "flash-point-testing-astm-d93",
       "name": "Flash Point Testing – ASTM D93",
+      "nameTr": "Parlama Noktası Testi – ASTM D93",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -570,6 +650,8 @@
     {
       "slug": "flash-point-testing-astm-d92",
       "name": "Flash Point Testing – ASTM D92",
+      "nameTr": "Parlama Noktası Testi – ASTM D92",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -583,6 +665,8 @@
     {
       "slug": "flashpoint-testing-astm-d56-tag-closed-cup",
       "name": "Flashpoint Testing – ASTM D56 (Tag Closed Cup)",
+      "nameTr": "Parlama Noktası Testi – ASTM D56 (Tag Kapalı Kap)",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -596,6 +680,8 @@
     {
       "slug": "formulation-health-score-add-on",
       "name": "Formulation Health Score™ Add-On",
+      "nameTr": "Formülasyon Sağlık Skoru™ Ek Hizmeti",
+      "accredited": false,
       "category": "stabilite",
       "categoryLabel": "Stabilite ve raf ömrü",
       "methods": [
@@ -609,6 +695,8 @@
     {
       "slug": "free-formaldehyde-testing-by-hplc",
       "name": "Free Formaldehyde Testing by HPLC",
+      "nameTr": "Serbest Formaldehit Analizi (HPLC)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -622,6 +710,8 @@
     {
       "slug": "ftir-fingerprinting",
       "name": "FTIR Fingerprinting",
+      "nameTr": "FTIR Parmak İzi Analizi",
+      "accredited": false,
       "category": "kalite-kontrol",
       "categoryLabel": "Kalite kontrol ve fizikokimyasal testler",
       "methods": [
@@ -635,6 +725,8 @@
     {
       "slug": "gc-fid-fingerprinting",
       "name": "GC-FID Fingerprinting",
+      "nameTr": "GC-FID Parmak İzi Analizi",
+      "accredited": false,
       "category": "alevlenebilirlik",
       "categoryLabel": "Alevlenebilirlik ve fiziksel güvenlik",
       "methods": [
@@ -648,6 +740,8 @@
     {
       "slug": "gluten-free-testing",
       "name": "Gluten Free Testing",
+      "nameTr": "Glutensiz (Gluten Free) Analizi",
+      "accredited": false,
       "category": "kalite-kontrol",
       "categoryLabel": "Kalite kontrol ve fizikokimyasal testler",
       "methods": [
@@ -661,6 +755,8 @@
     {
       "slug": "heavy-metals-testing-iso-21392",
       "name": "Heavy Metals Testing – ISO 21392",
+      "nameTr": "Ağır Metal Analizi – ISO 21392",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -673,13 +769,15 @@
     },
     {
       "slug": "heavy-metals-testing-usp",
-      "name": "Heavy Metals Testing – USP /",
+      "name": "Heavy Metals Testing – USP",
+      "nameTr": "Ağır Metal Analizi – USP",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
         "USP <232>/<233>"
       ],
-      "description": "Heavy Metals Testing – USP /, USP <232>/<233> metodolojisiyle ilgili bileşen, safsızlık veya kontaminant seviyesini kontrol eder. Formül güvenliği, mevzuat uygunluğu ve kalite kontrol kararları için nicel kanıt sağlar.",
+      "description": "Heavy Metals Testing – USP, USP <232>/<233> metodolojisiyle ilgili bileşen, safsızlık veya kontaminant seviyesini kontrol eder. Formül güvenliği, mevzuat uygunluğu ve kalite kontrol kararları için nicel kanıt sağlar.",
       "turnaroundTime": "2 weeks",
       "sampleSize": "10 grams",
       "sourceUrl": "https://www.pentyllabs.com/product/usp-heavy-metals-testing/"
@@ -687,6 +785,8 @@
     {
       "slug": "iso-11930-preservative-effectiveness-test-pet-no-suitability",
       "name": "ISO 11930 Preservative Effectiveness Test (PET) – No Suitability",
+      "nameTr": "ISO 11930 Koruyucu Etkinlik Testi (PET) – Uygunluk Testsiz",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -700,6 +800,8 @@
     {
       "slug": "iso-11930-preservative-effectiveness-test-pet-with-suitability",
       "name": "ISO 11930 Preservative Effectiveness Test (PET) with Suitability",
+      "nameTr": "ISO 11930 Koruyucu Etkinlik Testi (PET) – Uygunluk Testli",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -713,6 +815,8 @@
     {
       "slug": "lead-content-testing-by-icp-ms",
       "name": "Lead Content Testing by ICP-MS",
+      "nameTr": "Kurşun Miktar Tayini (ICP-MS)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -726,6 +830,8 @@
     {
       "slug": "mercury-content",
       "name": "Mercury Content",
+      "nameTr": "Cıva Miktarı Tayini",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -739,6 +845,8 @@
     {
       "slug": "methanol-content-testing-by-gc-ms",
       "name": "Methanol Content Testing by GC/MS",
+      "nameTr": "Metanol Miktar Tayini (GC/MS)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -752,6 +860,8 @@
     {
       "slug": "parabens-free-testing-by-hplc-uv",
       "name": "Parabens Free Testing by HPLC-UV",
+      "nameTr": "Paraben İçermez (Parabens Free) Analizi (HPLC-UV)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -766,6 +876,8 @@
     {
       "slug": "pfas-testing",
       "name": "PFAS Testing",
+      "nameTr": "PFAS Analizi",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -779,6 +891,8 @@
     {
       "slug": "ph-value-analysis-astm-e70",
       "name": "pH Value Analysis – ASTM E70",
+      "nameTr": "pH Değeri Analizi – ASTM E70",
+      "accredited": false,
       "category": "kalite-kontrol",
       "categoryLabel": "Kalite kontrol ve fizikokimyasal testler",
       "methods": [
@@ -792,6 +906,8 @@
     {
       "slug": "ph-eur-5-1-3-preservative-effectiveness-test-pet",
       "name": "Ph. Eur. 5.1.3 Preservative Effectiveness Test (PET)",
+      "nameTr": "Ph. Eur. 5.1.3 Koruyucu Etkinlik Testi (PET)",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -805,6 +921,8 @@
     {
       "slug": "phenoxyethanol-assay-by-hplc",
       "name": "Phenoxyethanol Assay by HPLC",
+      "nameTr": "Fenoksietanol Miktar Tayini (HPLC)",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -818,6 +936,8 @@
     {
       "slug": "phthalates-testing-by-gc-ms",
       "name": "Phthalates Testing by GC-MS",
+      "nameTr": "Ftalat Analizi (GC-MS)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -831,6 +951,8 @@
     {
       "slug": "potassium-sorbate-assay-by-hplc",
       "name": "Potassium Sorbate Assay by HPLC",
+      "nameTr": "Potasyum Sorbat Miktar Tayini (HPLC)",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -844,6 +966,8 @@
     {
       "slug": "shelf-life-pao-assessment",
       "name": "Shelf Life & PAO Assessment",
+      "nameTr": "Raf Ömrü ve PAO Değerlendirmesi",
+      "accredited": false,
       "category": "stabilite",
       "categoryLabel": "Stabilite ve raf ömrü",
       "methods": [
@@ -857,6 +981,8 @@
     {
       "slug": "sls-and-sles-testing",
       "name": "SLS and SLES Testing",
+      "nameTr": "SLS ve SLES Analizi",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -870,6 +996,8 @@
     {
       "slug": "sodium-benzoate-testing",
       "name": "Sodium Benzoate Testing",
+      "nameTr": "Sodyum Benzoat Analizi",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -883,6 +1011,8 @@
     {
       "slug": "soy-free-testing-by-elisa-assay",
       "name": "Soy Free Testing by ELISA Assay",
+      "nameTr": "Soya İçermez (Soy Free) Analizi (ELISA)",
+      "accredited": false,
       "category": "kalite-kontrol",
       "categoryLabel": "Kalite kontrol ve fizikokimyasal testler",
       "methods": [
@@ -896,6 +1026,8 @@
     {
       "slug": "substances-of-very-high-concern-svhc-screening",
       "name": "Substances of Very High Concern (SVHC) Screening",
+      "nameTr": "Yüksek Önem Arz Eden Maddeler (SVHC) Taraması",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -909,6 +1041,8 @@
     {
       "slug": "sulfate-free-testing-by-ion-chromatography-ic",
       "name": "Sulfate Free Testing by Ion Chromatography (IC)",
+      "nameTr": "Sülfat İçermez (Sulfate Free) Analizi (İyon Kromatografisi - IC)",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -924,6 +1058,8 @@
     {
       "slug": "supervised-in-use-test-under-dermatological-ophthalmological-control",
       "name": "Supervised In-Use Test under Dermatological & Ophthalmological Control",
+      "nameTr": "Dermatolojik ve Oftalmolojik Kontrol Altında Kullanım Testi",
+      "accredited": false,
       "category": "klinik-saha",
       "categoryLabel": "Klinik, saha ve kullanım çalışmaları",
       "methods": [
@@ -937,6 +1073,8 @@
     {
       "slug": "supervised-in-use-test-under-dermatological-control",
       "name": "Supervised In-Use Test under Dermatological Control",
+      "nameTr": "Dermatolojik Kontrol Altında Kullanım Testi",
+      "accredited": false,
       "category": "klinik-saha",
       "categoryLabel": "Klinik, saha ve kullanım çalışmaları",
       "methods": [
@@ -950,6 +1088,8 @@
     {
       "slug": "supervised-in-use-test-under-gynecological-control",
       "name": "Supervised In-Use Test under Gynecological Control",
+      "nameTr": "Jinekolojik Kontrol Altında Kullanım Testi",
+      "accredited": false,
       "category": "klinik-saha",
       "categoryLabel": "Klinik, saha ve kullanım çalışmaları",
       "methods": [
@@ -963,6 +1103,8 @@
     {
       "slug": "supervised-in-use-test-under-ophthalmological-control",
       "name": "Supervised In-Use Test under Ophthalmological Control",
+      "nameTr": "Oftalmolojik Kontrol Altında Kullanım Testi",
+      "accredited": false,
       "category": "klinik-saha",
       "categoryLabel": "Klinik, saha ve kullanım çalışmaları",
       "methods": [
@@ -976,6 +1118,8 @@
     {
       "slug": "time-kill-testing",
       "name": "Time Kill Testing",
+      "nameTr": "Time-Kill (Öldürme Süresi) Testi",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -989,6 +1133,8 @@
     {
       "slug": "total-fluorine-content-testing",
       "name": "Total Fluorine Content Testing",
+      "nameTr": "Toplam Flor Miktarı Tayini",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -1002,6 +1148,8 @@
     {
       "slug": "total-organic-fluorine-tof-testing-en-14582",
       "name": "Total Organic Fluorine (TOF) Testing – EN 14582",
+      "nameTr": "Toplam Organik Flor (TOF) Analizi – EN 14582",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -1015,6 +1163,8 @@
     {
       "slug": "uk-cosmetic-label-review",
       "name": "UK Cosmetic Label Review",
+      "nameTr": "Birleşik Krallık Kozmetik Etiket İncelemesi",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -1028,6 +1178,8 @@
     {
       "slug": "uk-cosmetic-registration-service",
       "name": "UK Cosmetic Registration Service",
+      "nameTr": "Birleşik Krallık Kozmetik Kayıt Hizmeti",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -1041,6 +1193,8 @@
     {
       "slug": "us-cosmetics-mocra-toxicological-risk-assessment-tra",
       "name": "US Cosmetics MoCRA Toxicological Risk Assessment (TRA)",
+      "nameTr": "ABD Kozmetik MoCRA Toksikolojik Risk Değerlendirmesi (TRA)",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -1054,6 +1208,8 @@
     {
       "slug": "us-ingredient-review-cosmetics",
       "name": "US Ingredient Review (Cosmetics)",
+      "nameTr": "ABD İçerik İncelemesi (Kozmetik)",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -1067,6 +1223,8 @@
     {
       "slug": "us-label-review-cosmetics",
       "name": "US Label Review (Cosmetics)",
+      "nameTr": "ABD Etiket İncelemesi (Kozmetik)",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -1080,6 +1238,8 @@
     {
       "slug": "us-mocra-company-registration-form-5066",
       "name": "US MoCRA Company Registration (Form 5066)",
+      "nameTr": "ABD MoCRA Firma Kaydı (Form 5066)",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -1093,6 +1253,8 @@
     {
       "slug": "us-mocra-product-registration-form-5067",
       "name": "US MoCRA Product Registration (Form 5067)",
+      "nameTr": "ABD MoCRA Ürün Kaydı (Form 5067)",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -1106,6 +1268,8 @@
     {
       "slug": "us-safety-data-sheet-sds-creation",
       "name": "US Safety Data Sheet (SDS) Creation",
+      "nameTr": "ABD Güvenlik Bilgi Formu (SDS) Hazırlama",
+      "accredited": false,
       "category": "mevzuat-uygunluk",
       "categoryLabel": "Mevzuat, etiket ve dosya uygunluğu",
       "methods": [
@@ -1119,6 +1283,8 @@
     {
       "slug": "usp-antimicrobial-effectiveness-test-pet-no-suitability",
       "name": "USP Antimicrobial Effectiveness Test (PET) – No Suitability",
+      "nameTr": "USP Antimikrobiyal Etkinlik Testi (PET) – Uygunluk Testsiz",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -1132,6 +1298,8 @@
     {
       "slug": "usp-antimicrobial-effectiveness-test-pet-with-suitability",
       "name": "USP Antimicrobial Effectiveness Test (PET) with Suitability",
+      "nameTr": "USP Antimikrobiyal Etkinlik Testi (PET) – Uygunluk Testli",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -1145,6 +1313,8 @@
     {
       "slug": "usp-burkholderia-cepacia-complex-bcc-testing",
       "name": "USP Burkholderia cepacia Complex (BCC) Testing",
+      "nameTr": "USP Burkholderia cepacia Kompleksi (BCC) Testi",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -1158,6 +1328,8 @@
     {
       "slug": "usp-microbial-enumeration-test-total-aerobic-microbial-count-yeast-and-mold-count",
       "name": "USP Microbial Enumeration Test (Total Aerobic Microbial Count & Yeast and Mold Count)",
+      "nameTr": "USP Mikrobiyal Sayım Testi (Toplam Aerobik Mikrobiyal Sayım ve Maya/Küf Sayımı)",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -1171,6 +1343,8 @@
     {
       "slug": "usp-microbial-enumeration-specified-organisms-suitability-test",
       "name": "USP / Microbial Enumeration & Specified Organisms (Suitability Test)",
+      "nameTr": "USP Mikrobiyal Sayım ve Belirli Mikroorganizmalar (Uygunluk Testi)",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -1184,6 +1358,8 @@
     {
       "slug": "usp-microbial-limits-testing-total-count-pathogen-screening",
       "name": "USP / Microbial Limits Testing (Total Count & Pathogen Screening)",
+      "nameTr": "USP Mikrobiyal Limit Testi (Toplam Sayım ve Patojen Taraması)",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -1197,6 +1373,8 @@
     {
       "slug": "uv-vis-absorption-spectra",
       "name": "UV-VIS Absorption Spectra",
+      "nameTr": "UV-VIS Absorpsiyon Spektrumu",
+      "accredited": false,
       "category": "kalite-kontrol",
       "categoryLabel": "Kalite kontrol ve fizikokimyasal testler",
       "methods": [
@@ -1210,6 +1388,8 @@
     {
       "slug": "vapor-pressure-testing-astm-e1719",
       "name": "Vapor Pressure Testing (ASTM E1719)",
+      "nameTr": "Buhar Basıncı Testi (ASTM E1719)",
+      "accredited": false,
       "category": "kalite-kontrol",
       "categoryLabel": "Kalite kontrol ve fizikokimyasal testler",
       "methods": [
@@ -1223,6 +1403,8 @@
     {
       "slug": "voc-content-testing-carb-method-310",
       "name": "VOC Content Testing – CARB Method 310",
+      "nameTr": "VOC (Uçucu Organik Bileşen) Miktarı – CARB Metot 310",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -1236,6 +1418,8 @@
     {
       "slug": "volatile-nitrosamines-testing",
       "name": "Volatile Nitrosamines Testing",
+      "nameTr": "Uçucu Nitrozamin Analizi",
+      "accredited": false,
       "category": "kimyasal-analiz",
       "categoryLabel": "Kimyasal analiz ve kontaminant taraması",
       "methods": [
@@ -1249,6 +1433,8 @@
     {
       "slug": "water-activity",
       "name": "Water Activity",
+      "nameTr": "Su Aktivitesi",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [
@@ -1262,6 +1448,8 @@
     {
       "slug": "water-activity-testing-aoac-978-18",
       "name": "Water Activity Testing (AOAC 978.18)",
+      "nameTr": "Su Aktivitesi Testi (AOAC 978.18)",
+      "accredited": false,
       "category": "mikrobiyoloji",
       "categoryLabel": "Mikrobiyoloji ve koruyucu etkinlik",
       "methods": [

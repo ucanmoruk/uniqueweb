@@ -4,10 +4,12 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate-info-tree.mjs && node scripts/generate-regulation-markets.mjs && node scripts/generate-test-library.mjs",
+    "generate": "node scripts/generate-info-tree.mjs && node scripts/generate-regulation-markets.mjs && node scripts/generate-test-library.mjs && node scripts/inject-static.mjs && node scripts/generate-sitemap.mjs",
     "generate:info-tree": "node scripts/generate-info-tree.mjs",
     "generate:markets": "node scripts/generate-regulation-markets.mjs",
     "generate:tests": "node scripts/generate-test-library.mjs",
+    "inject:static": "node scripts/inject-static.mjs",
+    "generate:sitemap": "node scripts/generate-sitemap.mjs",
     "import:tests:pentyllabs": "node scripts/import-pentyl-services.mjs"
   }
 }
